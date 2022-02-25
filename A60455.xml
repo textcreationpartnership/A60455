@@ -1,0 +1,922 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in St. Saviour's Church in Dartmouth, July 24th. anno Dom. 1698 Together with some refections on the opinion of those, who affirm, that the only difference between the Church and the meeting-house, is that of a few ceremonies. In a letter to a friend. By Humfry Smith, M.A.</title>
+            <author>Smith, Humphry, b. 1654 or 5.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60455</idno>
+            <idno type="STC">Wing S4086</idno>
+            <idno type="STC">ESTC R224030</idno>
+            <idno type="EEBO-CITATION">99834675</idno>
+            <idno type="PROQUEST">99834675</idno>
+            <idno type="VID">39179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1820:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in St. Saviour's Church in Dartmouth, July 24th. anno Dom. 1698 Together with some refections on the opinion of those, who affirm, that the only difference between the Church and the meeting-house, is that of a few ceremonies. In a letter to a friend. By Humfry Smith, M.A.</title>
+                  <author>Smith, Humphry, b. 1654 or 5.</author>
+               </titleStmt>
+               <extent>70, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Sam. Darker and Sam. Farley, for Charles Yeo, John Pearce, and Philip Bishop,</publisher>
+                  <pubPlace>Exon :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:39179:1"/>
+                  <pb facs="tcp:39179:1" rendition="simple:additions"/>
+                  <p>A SERMON Preached in St. <hi>Saviour</hi>'s Church in <hi>Dartmouth, July</hi> 24th. <hi>Anno Dom.</hi> 1698.</p>
+                  <p>Together with Some Reflections on the Opinion of thoſe, who affirm, that the only difference between the Church and the Meeting-Houſe, is that of a few <hi>Ceremonies.</hi>
+                  </p>
+                  <p>
+                     <hi>In a LETTER to a Friend.</hi>
+                  </p>
+                  <p>By <hi>H<g ref="char:V">Ʋ</g>MFRY SMITH,</hi> M. A.</p>
+                  <p>
+                     <hi>EXON:</hi> Printed by <hi>Sam. Darker</hi> and <hi>Sam. Farley,</hi> for <hi>Charles Yeo, John Pearce,</hi> and <hi>Philip Biſhop,</hi> 1698.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:39179:2"/>
+                  <head>Advertiſement to the Rea<g ref="char:EOLhyphen"/>der.</head>
+                  <p>The Author having committed theſe Diſcourſes to my Diſpoſal, I thought the Printing of them, would do right to him, and no ſmall ſervice to the Publick</p>
+                  <closer>
+                     <signed>Robert <hi>Burſcough.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb n="3" facs="tcp:39179:2"/>
+                  <head>TO Mr. <hi>Robert Burſcough.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Now ſend you that, which hath made ſo much Noiſe, and undergone ſo much Cenſure a<g ref="char:EOLhyphen"/>mongſt ſome in this Place: Namely, what I Preach<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, both in the Morning, and Afternoon, on Sunday, the 24th of the laſt month. You may not only Satisfy Your own deſire, in the peruſal of it; but alſo communicate it to Your Friends, as you think fit: Tho' I muſt tell you, that if either you, or They, have expected ſome<g ref="char:EOLhyphen"/>thing Extraordinary, you will ſoon find your miſtake. For notwithſtanding the Opinions, both of them that were pleas'd, and of them that were diſpleas'd, with what I then ſaid; I am ſenſible of nothing, either much better, or much worſe, then what I am wont to ſay at other times.</p>
+                  <p>My deſign, in this plain Diſcourſe, was not, you will perceive, ſome new or ſtrange thing: but to do that which every Preacher, without
+<pb n="4" facs="tcp:39179:3"/> doubt, is oblig'd to do frequently; to encourage to a Zealous purſuit of <hi>Good,</hi> notwithſtanding all the difficulties we ſhall meet with.</p>
+                  <p>Becauſe it may be pretty hard for you to diſ<g ref="char:EOLhyphen"/>cover the crimes, which have expos'd me to ſo much anger, and reproach; I will let you know what I take to be the chief. Among other things we are oblig'd to, as Followers of that which is Good, I recommended, as you will find, <hi>Con<g ref="char:EOLhyphen"/>ſtancy in matters of Religion, and Zeal for the Intereſts of it:</hi> By which I was ſuppos'd to have, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> indeed I had, a particular regard to the Religion, by Law eſtabliſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. And this I preſumed to do the Sunday before the Election of Burgeſſes to <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Parliament: a time when I ought, as ſome think, more eſpecially to have kept my ſelf within my own ſphere, and not attempted thus to intermeddle, with things that do not be<g ref="char:EOLhyphen"/>long to me.</p>
+                  <p>This is the main charge againſt me, and I per<g ref="char:EOLhyphen"/>ſwade my ſelf, I have no need to fear from you, a very heavy Sentence. You do not, I am well aſſur'd, think it an unpardonable fault, to put People in mind, of acting conſiſtently, with their own Religious Profeſſions: Neither do you look upon a Perſon of my character, as quite out of his Province; if at any time he appears concern'd
+<pb n="5" facs="tcp:39179:3"/> for the welfare, of Our holy Mother the Church of, <hi>England.</hi>
+                  </p>
+                  <p>Whether it was not fit for me, upon that oc<g ref="char:EOLhyphen"/>caſion, to chooſe a ſubject, which Our Church in ſome ſort recommended to me, being taken out of the Epiſtle for the Day: And whether in the handling of it, I went indecently out of my way, to fetch in the things which have been diſlik'd: You, Sir, and the reſt that ſhall read my Serm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, are to Judge For my part, I do freely own, that had I ſaid much more to the ſame purpoſe, and taken any other occaſion to bring it in; I ſhould not thereupon eſteem my ſelf in any ſort criminal. Yea I would much rather be accounted impertinent, needleſly zealous, or over buſy: than not to expreſs a juſt regard, for what I believe to be a very great bleſſing.</p>
+                  <p>The laws of the Land, you know, Sir, require all the Clergy of <hi>England,</hi> and indeed the People too, to thank God <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or <hi>reſtoring Our Religion, and Worſhip,</hi> after the <hi>Confuſions</hi> of Several Years: yea to acknowledge it, as his <hi>unſpeakable goodneſs to us.</hi> And are the Inſtances of <hi>God's unſpeak<g ref="char:EOLhyphen"/>able goodneſs,</hi> which we are thus publickly to be thankful for, not proper to be mention'd by us? yea is it unſeaſonable to exhort to a due ſenſe of
+<pb n="6" facs="tcp:39179:4"/> a mighty Bleſſing, for this very reaſon, becauſe ſome of the Hearers will be ſpeedily in a capacity, to do that which may contribute, either to the Overthrow, or the preſervation of it.</p>
+                  <p>It is hard, that things of the ſame nature, ſhould be ſo very allowable in one Sort of People, and yet ſo faulty in others. Tho' you and I, Sir, converſe but little with them, that will diſcover, what is done in the <hi>Meeting-H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſes;</hi> we have however met with accounts, of the ex<g ref="char:EOLhyphen"/>traordinary heat of ſome of the Preachers in them, on occaſion of the late <hi>Elections.</hi> A thing too is not long ſince accidentally come to light, <note place="margin">See ſome Re<g ref="char:EOLhyphen"/>flect on a Mo<g ref="char:EOLhyphen"/>del now in Projection by the Presbyt. Diſſenters.</note> which walk'd, it ſeems, in Darkneſs, namely, A form'd deſign for ſuch a <hi>General Meeting</hi> as per<g ref="char:EOLhyphen"/>haps, could it hope for the countenance of Authority, might one day prove as famous as a late <hi>General Aſſembly.</hi> I do not hear that the Diſſenters have condemn'd their Leaders, for ſuch Practices as theſe: And will they not then permit us to have ſomewhat of the ſame reſpect for our Religion, which theſe men have for theirs? Whilſt the Profeſs'd Enemies of the Eſtabliſh'd Church are promoting their Cauſe, even in con<g ref="char:EOLhyphen"/>tempt of the laws in being with the ſilence, if not applauſe, of their Followers: are we to be cenſur'd and reproach'd, if we make the leaſt
+<pb n="7" facs="tcp:39179:4"/> diſcovery, that we are not ignorant of their devices?</p>
+                  <p>And having mention'd a <hi>General Aſſembly,</hi> I cannot but note, that the time is not yet out of memory, when a company of men under that Name, made <hi>an Act for Cenſuring Miniſters for</hi> 
+                     <note place="margin">
+                        <hi>Aug.</hi> 3. 1648.</note> 
+                     <hi>their ſilence,</hi> and in it ordain'd that <hi>the main cur<g ref="char:EOLhyphen"/>rent of Applications in Sermons,</hi> ſhould run, as againſt ſome other things; ſo more particularly againſt <hi>the defection from the League and Covenant, againſt unjuſt decrees eſtabliſh'd by Law,</hi> and againſt <hi>the Plots and Practices of</hi> thoſe they call'd <hi>Malig<g ref="char:EOLhyphen"/>nants.</hi> And that in caſe any <hi>Miniſter for his free<g ref="char:EOLhyphen"/>dom</hi> in this kind, ſhould be <hi>raiſ'd at, mock'd, or threatned, the Presbytery of the bounds</hi> ſhould bring the Offender <hi>to publick Repentance,</hi> or elſe <hi>Excommunicate him.</hi> This certainly was Such a zeal for their own way, as no true Sons of the Church of <hi>England</hi> would ever be willing to imitate. However the men of that Stamp may be aſſur'd, that we think as well of our Religion, as they can of theirs: And the Indifferent Part of the World, perhaps, will Judge, that we have much greater reaſon for it.</p>
+                  <p>You will conclude, I believe, that what I have thus ſaid is ſufficient, to prove it no unreaſonable thing, for thoſe that profeſs the Religion of the
+<pb n="8" facs="tcp:39179:5"/> Church of <hi>England,</hi> to expreſs ſome concern for the welfare of it. But now, Sir, I am to acquaint you, with a ſhort Anſwer to all ſuch Argu<g ref="char:EOLhyphen"/>ments: an Anſwer I find very common of late, in the mouths of ſome Well-meaning People.</p>
+                  <p>The Church of <hi>England,</hi> ſay they, neither is, nor can be, in danger from the Diſſenters: and therefore all the zeal that is pretended for it, in oppoſition to them, might very well be ſpar'd: For the Diſſenters are of the Church of <hi>England</hi> too: They have the ſame faith, and the ſame kind of worſhip, the only difference being that of a few Ceremonies. You may, perhaps, think it fit, to let theſe Papers come into the hands of ſome, who are pleas'd with this Notion; and ſo will allow me, to make ſome ſhort Reflections upon it.</p>
+                  <p>It will be granted; I think, that this Pretence will not hold, with relation to all our Diſſenters from the Eſtabliſh'd Church. Such as deny the Eternity of the Son of God, and the Doctrine of the Bleſſed Trinity: Such as caſt off the uſe of the two Holy Sacraments: Such as deſpiſe the Rule of Scripture, and are prepar'd for all the Extra<g ref="char:EOLhyphen"/>vagancies of Enthuſiaſm: Such Diſſenters as theſe ſurely, muſt be thought to ſtand at a greater diſtance from us, than that of a few Ceremonies, As
+<pb n="9" facs="tcp:39179:5"/> for the men too, who are of more ſober Prin<g ref="char:EOLhyphen"/>ciples; it will not Univerſally hold, that they preach no other Doctrine, but that of the Church of <hi>England.</hi> You have ſeen the private letters, which ſeveral years ago, I was oblig'd to write to a Preacher of ſome <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame amongſt the Preſ<g ref="char:EOLhyphen"/>byterians, and Independents, about ſome paſſages in one of his Printed Books, together with his <note place="margin">Mr. <hi>Fiavel</hi>'s Fountain of Life opened.</note> anſwers. And you very well Remember, that tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I was concern'd for ſuch things as are own'd by Our Church, Ceremonies were not at all the Subject of that Controveryſy.</p>
+                  <p>But ſuppoſing the Doctrine which is preach'd in the Conventicles, to be always the very ſame, with what is taught in the Churches: the accord, alas, is not yet ſo great as is pretended. There is ſtill a conſiderable difference, even that which is between ſuch as <hi>obey thoſe that have the Rule over them,</hi> and ſuch as do not: that which is be<g ref="char:EOLhyphen"/>tween ſuch as preſerve the <hi>
+                        <g ref="char:V">Ʋ</g>nity of the Church, and</hi> ſuch as Schiſmatically divide from it. And this the Ancient Fathers declare to be a very great dif<g ref="char:EOLhyphen"/>ference, yea as great as was between that part of the <hi>Congregation of Jſrael,</hi> which adher'd to their <note place="margin">
+                        <hi>Cyprian,</hi> de u<g ref="char:EOLhyphen"/>nitate Eccleſ. Oper. Ed: Ox. p. 116. <hi>Chry<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt.</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om. 3 p. 822. Ed. Savil.</note> Leaders, and the company of <hi>Corah,</hi> who <hi>periſhed</hi> in his <hi>Gainſaying.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:39179:6"/>
+                  <p>But if this be ſo great a difference, may ſome ſay, it is in the power of the Governours of the Church of <hi>England,</hi> to remove it aſſoon as they pleaſe. Let them but take away the cauſes of Separation, and there will be an end of all diſcord: We ſhall then according to the deſire of St. Paul, <hi>with one mind and one mouth, glorify</hi> 
+                     <note place="margin">
+                        <hi>Rom.</hi> 15. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 6.</note> 
+                     <hi>God, even the Father of Our Lord Jeſus Christ.</hi>
+                  </p>
+                  <p>That is, Let the Church who hath given no real ground of offence, yield their cauſe, and go and joyn with the offended, and then the peace is made. This indeed is a notable Expedient, and it is pity that ſuch a healing method had not been found out in former ages. Here would have been a preſent remedy for the <hi>Novation Schiſm,</hi> which diſturb'd the peace of the Chriſtian Church, for ſo long a time. It was but for the Catholicks to have gone over to them, who for<g ref="char:EOLhyphen"/>ſook their Communion without ſufficient reaſon, and then the Union would have been reeſtabliſh<g ref="char:EOLhyphen"/>ed. Or in the Caſe before-mention'd, it was but for <hi>Moſes</hi> and <hi>Aaron</hi> to have parted with ſome of that Authority, which was thought too much for them, <hi>ſeeing all the Congregation were Holy:</hi> 
+                     <note place="margin">
+                        <hi>Num.</hi> 16. 3.</note> and that Eccleſiaſtial Sedition would have been preſently ended. Till our Diſſenters ſhall be able to prove, that their Separation from us was
+<pb n="11" facs="tcp:39179:6"/> abſolutely neceſſary: which all their paſt attempts in order to it, ſufficiently aſſure us, will be a very great difficulty for them<g ref="char:punc">▪</g> 
+                     <hi>that carnal thing,</hi> as St. <hi>Paul</hi> 
+                     <note place="margin">1 <hi>Cor. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Gal.</hi> 5. 20.</note> account's it, enters the very Conſti<g ref="char:EOLhyphen"/>tution of their Religious Aſſemblies, and makes them Eſſentially differ, from ſuch as are held in the Unity of Chriſt's Church.</p>
+                  <p>But could ſome wonderful Art at length be found out to hea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their Schiſm, notwithſtanding their adherence to the Principles, on which they made a very unneceſſary diviſion; The difference between the Church and the Meeting-Houſe, would yet be manifeſtly greater than that of a few Ceremonies. It cannot yet be forgoten, that the Diſſenters once violently ſeiz'd, that which they now ſeem ſo willing, to have freely deliver'd up to them, the legal Eſtabliſhment of our Na<g ref="char:EOLhyphen"/>tional Church. Having open'd their way, through the <hi>Greateſt of it's Defenders,</hi> down they threw it, and ſet up themſelves. And when this was done, had we ſtill the ſame Church of <hi>England</hi> which we had before, only abating a few Ceremonies? Did the Enemies of the Refor<g ref="char:EOLhyphen"/>mation rejoyce in, and the Friends of it lament, no greater a change than that? Certainly the Learned even at <hi>Geneva,</hi> were of another <note place="margin">Vide Epiſtol. Jo. Diodati, ad Theolog. Weſtmonaſt.</note> Opinion: For when <hi>Diodati,</hi> and the Other
+<pb n="12" facs="tcp:39179:7"/> Miniſters there, were courted by the Aſſembly of Divines, to approve the Proceedings in <hi>England,</hi> their Anſwer was, That now a Church was rent In pieces, which was <hi>the Eye, and Excel<g ref="char:EOLhyphen"/>lency of all the Churches, Chriſt's own choice pur<g ref="char:EOLhyphen"/>chaſe, and peculiar<g ref="char:punc">▪</g> and that they perfectly trembled with ho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>our, at the deformity, which was brought on the moſt beautiful face of it.</hi>
+                  </p>
+                  <p>It muſt certainly be no difficulty to ſhew, that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ven our moderate Diſſenters diſagree from the Church of <hi>England,</hi> in matters of no ſmall im<g ref="char:EOLhyphen"/>portance. Yea that they have Expreſſ'd a huge diſlike, of ſome very conſiderable things in it: Which are however Sufficiently Juſtified by the <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of other Reformed Churches, by the Practice of the pureſt, and moſt primitive times, and, which is above all by the Word of God it's ſelf, Leſt any that favour the Separation, ſhould conſider this as too Severe a Charge, I will mention a few Particulars, wherein, I am con<g ref="char:EOLhyphen"/>fident, it may at any time be fully made ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>Amongſt theſe I am ſure you will allow me to name, <hi>Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Government of the Church by Biſhops.</hi> You have<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with ſo much ſtrength of Reaſon, and ſuch clear Evidence aſſerted that Govern<g ref="char:EOLhyphen"/>ment<g ref="char:punc">▪</g> Making in ſo plainly appear, to have a Sufficient Foundation in Holy Scripture, and to
+<pb n="13" facs="tcp:39179:7"/> have been of Conſtant, and only Uſe, in the Chriſtian Church, in all times, and all Countries, till the Presbyterian Diſcipline was firſt ſet up, in a few places, in the laſt Age: that I believe <note place="margin">A Treat. of Ch. Govern<g ref="char:EOLhyphen"/>ment, Pub. <hi>An. Dom.</hi> 1692.</note> the moſt learned of the Adverſaries, will delibe<g ref="char:EOLhyphen"/>rate yet longer, ere they will pretend to anſwer your Diſcourſe on that Subject. Indeed the Great Patrons of that Model, which now by all means would Supplant Epiſcop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cy, were abun<g ref="char:EOLhyphen"/>dantly ſenſible of the novelty of the thing. And <note place="margin">
+                        <p>Diſciplinam qualem habu<g ref="char:EOLhyphen"/>it vetus Ec<g ref="char:EOLhyphen"/>cleſia nobis de eſſe neque nos di<gap reason="illegible" resp="#APEX" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>temur Sed cujus erit aequitatis nos everſae diſciplinae ab iis accuſari, qui &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>am ſoli penitus Suſtulerunt, &amp; cum poſtlim<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>io reducere conaremur, nobis hactenus obſtiterunt. Calvin in Epiſt. ad Card. Sadol.</p>
+                        <p>Quod Si nu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c Anglicanae Eccleſiae inſtaturat<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>e, Suorum Epiſcoporum &amp; Ar<g ref="char:EOLhyphen"/>chi Epiſcoporum Auctoritate <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> perſtant<g ref="char:punc">▪</g> Quemadmodum hoc illi noſtra memoria contigit, ut ejus Ordinis homines non tantum inſignes Dei Martyres, ſed eti<g ref="char:EOLhyphen"/>am Praeſtantiſſimos Paſtores ac Doctores habuerit, fruatur Sane <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſta Singulari Dei beneficientia, qu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>it Illi perpetua. Beza ad Tract. de miniſtr: Ev. grad. ad. Had. Sarav. c. 18.</p>
+                     </note> inſtead of recommending it to others, were rea<g ref="char:EOLhyphen"/>dy at firſt to make Apologies for it themſelves, as an Expedient they were forced upon, even a<g ref="char:EOLhyphen"/>gainſt their own Inclination: Being willing, if it had been poſſible for them, to retain what was juſtified by the unqueſtionable practice of the pureſt Ages.</p>
+                  <p>Should any Society of Chriſtians undertake to change the Obſervation of the Lord's-Day, from the firſt, to the third, or fourth, or any o<g ref="char:EOLhyphen"/>ther of the Week the boldneſs of ſuch an attempt, would doubtleſs be very Severely cenſured; unleſs
+<pb n="14" facs="tcp:39179:8"/> the Men were able to plead, that it was not mat<g ref="char:EOLhyphen"/>ter of choice, but the effect of ſome very great Neceſſity. Now I verily believe, that the pre<g ref="char:EOLhyphen"/>ſumption is in no ſort leſs, of wilfully throwing down Epiſcopacy, to fill the Room of it, with ſome new Contrivance. Has the Lord's Day Sufficient <note place="margin">Diſcimus quidem ex hoc loco, non <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>am fuiſſe tunc aequalitatem inter Eccleſiae Miniſtros, quin u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us aliquis Autorirate &amp; conſilio prae eſſet. <hi>Calvin.</hi> Com. in <hi>Tit,</hi> 1. 5.</note> Warrant from Holy Scripture? ſo has that Form of Church-Government. Is the one confirm'd by the un<g ref="char:EOLhyphen"/>doubted Practice of the Catholick Church in all Ages? ſo is the other alſo. Indeed the miſchief of Innovation appears to me, much greater in the Caſe of Biſhops, than it could be in that of the Lord's-Day. Were we obliged by ſome new Law, to meet together upon another day of the week, and not the firſt: there would be only the change of a Circumſtance of Worſhip, which was of Divine Inſtitution.</p>
+                  <p>But ſhould the Order of Biſhops be Over<g ref="char:EOLhyphen"/>thrown, to make room for thoſe, Teachers, who are ſo much offended at it; there is too much Reaſon to conclude, that ſomewhat eſſentially neceſſary, at leaſt to the well-being of the Church, would then be wanting. The Authority of them who were <hi>Ambaſſadors <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Christ,</hi> and had <hi>the Miniſtery of Reconciliation,</hi> hath been undoubt<g ref="char:EOLhyphen"/>edly
+<pb n="15" facs="tcp:39179:8"/> conveigh'd down, by a Succeſſion of Bi<g ref="char:EOLhyphen"/>ſhops, in the Chriſtian Church. And putting aſide that Succeſſion. I ſhould be glad to learn a way, how any Perſon can juſtly pretend a Commiſſion, to tranſact with the People the great Buſineſs of their Souls, and ſpeak to them in the Name of the Lord.</p>
+                  <p>Another thing which I ſhall not ſcruple to mention, as a matter of importance, wherein we differ from the Diſſenters, is an <hi>Excellent Liturgy.</hi> We of the Church of <hi>England</hi> do publickly Worſhip God, by the uſe of known Forms, compil'd at firſt with much care and ſtudy, by the Glorious Martyrs of our Reformation, and abundantly approv'd ſince, by the beſt, the wiſeſt, and moſt learned Men: Whereas on the other hand, the Diſſenters in their Meeting-Houſes do only offer up unto the moſt High, ſuch a ſervice as the Premeditation, Or perhaps, the preſent Invention of their ſeveral Preachers ſhall be able to furniſh. This certainly is a conſiderable dif<g ref="char:EOLhyphen"/>ference, and that the advantage is much on our ſide, muſt needs be very plain to any unprejudiced Perſon. Putting aſide the regard we ought to have for the Authority, and example of our Lord Chriſt, who both taught, and commanded his <note place="margin">
+                        <hi>Mat.</hi> 6. 9. <hi>Ezke</hi> 11. 2.</note> Diſciples, to make uſe of a Form when they
+<pb n="16" facs="tcp:39179:9"/> pray'd: Not conſidering the undoubted practice, both of the Jewiſh, and the Chriſtian Church, which is manifeſtly for us: yea particularly the practice of thoſe Churches, a nearer reſemblence to which, ſome men expreſs ſo great a value for, calling them the <hi>beſt Reformed:</hi> I ſay, Omitting all theſe Conſiderations, which would ſtrongly conclude for a preference to Publick Forms, above the Compoſitions, or Ex-tempore-Effuſions of private Perſons: I would venture, to appeal in this matter to the Common Senſe, even of any Judicious Diſſenters themſelves, who would but Seriouſly think upon it. Such Perſons cannot but ſay, that the Liturgy of the Church of <hi>England</hi> was contriv'd, by men of Conſiderable Abilities for ſuch a work: the fame of their great Learning, and Sincerity, being unqueſtionable in the World. And can they who are ſo diligent to find out ſomewhat to Scruple at in this Liturgy, imagine that every Preacher in a Conventicle is qualified to frame a better, and more acceptable Service? Yea can ſuch Preachers be ſuppos<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d able to do this anew, once or twice every Week, and that, as many of them ſeem willing to have it under<g ref="char:EOLhyphen"/>ſtood, without thinking before hand on the words they are to utter? Were the Ex-tempore-Prayers of ſome of the moſt eminent for that faculty,
+<pb n="17" facs="tcp:39179:9"/> but put in Writing, that ſo they might be duly Examin'd as ſome paſſages of that kind were not <note place="margin">See Scotch Presbyterian Eloquence.</note> long ſince in a Neighbouring Kingdom: It might, perhaps, then abundantly appear, that they who are ſo fond of ſuch performances, have the leaſt reaſon, of any in the World, to criti<g ref="char:EOLhyphen"/>cize on the Prayers of Our Church, and cenſure the defects of them.</p>
+                  <p>But a Liturgy, may Some ſay, would be a tolerable thing, were it of a different Make, from that of the Church of <hi>England:</hi> Wherein ſeveral of thoſe Forms are to be met with, which are ſtill of Uſe amongſt the Papiſts. And this now ſome People look upon, as a terrible, Objection againſt the Book of Common-Prayer; Whereas You well know, Sir, that 'tis rather a conſiderable Proof of it's Excellency. We have in it, the <hi>Lords Prayer,</hi> the <hi>Apoſtles Creed,</hi> the <hi>Gloria Patri, Te Deum,</hi> and ſome other Forms of Prayer, Thankſgiving, and Confeſſion of Faith, which the Romaniſts make Uſe of. But then our agreement with them in theſe inſtances is, becauſe, beſides the Corruptions they have added, they ſtill retain many Things which are pure, and primitive. The buſineſs of thoſe Excel<g ref="char:EOLhyphen"/>lent Men who framed our Liturgy, was not to make a new Religion, but to reform the Old.
+<pb n="18" facs="tcp:39179:10"/> Whence, as a moſt learned Forreigner has ob<g ref="char:EOLhyphen"/>ſerv'd, <note place="margin">Paſſim variae a va<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iis Re<g ref="char:EOLhyphen"/>formationis Autoribus conditae &amp; praeſcriptae <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>unt. S. Litur<g ref="char:EOLhyphen"/>giae formulae ſimplic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s &amp; purae in Ger<g ref="char:EOLhyphen"/>mania, Gallia, Anglia, Scotia, Belgio, &amp;c. quam minimum <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ieri <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ab antiquis formulis Primitivae Eccleſiae abſcedentes. Ludovicus Capellus Theſ. Salm. Th. de Li<gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>g. par. 3. Th. 6.</note> the firſt Authors of the Reformation not only in <hi>England,</hi> but alſo in <hi>Germany, France, Scotland,</hi> the <hi>Netherlands,</hi> &amp;c. preſcrib'd Forms of publick Prayer, <hi>differing as little as poſſible, from the Ancient Forms of the Primitive Church.</hi>
+                  </p>
+                  <p>And indeed we begin every Day to be more and more convinced of the great Wiſdom, and Piety, of our firſt Reformers, in retaining thoſe ancient Forms, in our Publick Service. The late growth of Hereſy amongſt us, makes us too ſenſible of what Conſequence it is, to keep up the fences a<g ref="char:EOLhyphen"/>gainſt it. In an Age ſo fruitful of Monſtrous Opinions, if the People know nothing before<g ref="char:EOLhyphen"/>hand of the Prayers, and Praiſes, they are to joyn in; they cannot be certain, whether they ſhall offer up a Service leven'd with <hi>Arrianiſm,</hi> or <hi>Socinianiſm,</hi> or ſome other Abomination, deſtru<g ref="char:EOLhyphen"/>ctive of the Common Principles of Chriſtianity. But as they appear in God's preſence, to ſpeak unto him in the voice of his Church; as they are ſure to keep to the ſame <hi>Forms of ſound Words,</hi> which have been made uſe of to expreſs the true Faith, by the moſt Glorious Defenders of it, in ancient time, they are ſecure from the fear,
+<pb n="19" facs="tcp:39179:10"/> of offering an unholy thing before the Lord, or blaſpheming that Name which they pretend to glorify.</p>
+                  <p>Another Difference between the Church and the Meeting-houſe is, that one requires <hi>Exter<g ref="char:EOLhyphen"/>nal Worſhip,</hi> and the other hath but little regard for it. And this I take to be as great a diffe<g ref="char:EOLhyphen"/>rence, as that between Obedience to a Divine Precept, and the neglect of it. <hi>O come let us</hi> 
+                     <note place="margin">Pſal. 95. 6.</note> 
+                     <hi>worſhip, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow down, let us kneel before the Lord our Maker:</hi> Thus in the Jewiſh Church, they encouraged one another to their Duty, in that divine Song, compos'd, as a learned Father <note place="margin">Theodorer.</note> thinks, on purpoſe for the Reformation of <hi>Jo<g ref="char:EOLhyphen"/>ſiah.</hi> And that this outward Reverence is a Branch of natural Religion, to which we are e<g ref="char:EOLhyphen"/>qually obliged under the Goſpel, appears from St. <hi>Paul</hi>'s Exhortation, not only <hi>to glorify God in</hi> 
+                     <note place="margin">1 Cor. 6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0.</note> 
+                     <hi>our Spirit,</hi> but <hi>our Body</hi> too. In Conformity to theſe, and ſeveral other places of Scripture; our Church having provided excellent Forms of Devotion, directs, and requires in the Uſe of them, ſuch external Acts, as do properly expreſs our inward Adoration. But that the Diſſenters have very little reſpect for theſe agreeable, yea theſe neceſſary things, is not to be denied, I think, by ſuch as frequent their Aſſemblies. Certainly
+<pb n="20" facs="tcp:39179:11"/> when they are occaſionally preſent with us, as we ſerve the Lord, they for the moſt part, ſeem not at all concern'd, to fall down on their Knees to Pray to him, or to ſtand up to Praiſe him.</p>
+                  <p>The Excuſe perhaps is, that if we Worſhip God in Spirit and in Truth, there is no need of ſuch inconſiderable things, as the Ge<g ref="char:EOLhyphen"/>ſtures of the Body. But ſo to aſſert, is to ſeem wiſer than the Church of God in all Ages, yea then Chriſt himſelf the Head of it. When the Devil offer'd him all the Kingdoms of the World, and the Glory of them, for a ſingle act of external Adoration: as that cun<g ref="char:EOLhyphen"/>ning Spirit did not certainly ſet ſo great a price upon a trifle; ſo our bleſſed Saviour puts him in mind of the Value, telling him it was a Holy thing, ſomewhat which the Great King of Kings had claim'd as his Right, and therefore was in<g ref="char:EOLhyphen"/>communicable to any Creature. <hi>It is written,</hi> 
+                     <note place="margin">Mat. 4. 10.</note> 
+                     <hi>thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</hi> Were not bodily Adoration, as well as ſpiritual, intended by God, where he commands us to worſhip him; then this anſwer of our Saviour would have been nothing at all to the purpoſe. The Devil, we find, was willing at any rate to purchaſe that external Veneration, <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> which is paid by falling down to the Ground:
+<pb n="21" facs="tcp:39179:11"/> and would the words of our bleſſed Lord have ſtopp'd his Mouth, and made him fly, if he had ſaid no more than this, <hi>It is written, the heart is the Lord's, and with that we are to worſhip him?</hi>
+                  </p>
+                  <p>Indeed, Sir, I have often thought, that the Notion which ſome People have entertain'd, a<g ref="char:EOLhyphen"/>bout ſuch external Acts of religious Worſhip, would go a great way towards the juſtifying moſt of the Idolaters that have been in the World: thoſe I mean, who have ſtill preſerv'd an awful ſenſe of the ſupreme Being, whilſt they have bow'd down to Images. If Bowing, and Kneeling, or the like external Expreſſions of our inward De<g ref="char:EOLhyphen"/>votion, be not due to the Almighty: How do People rob him of his Honour, in beſtowing them upon other things? Such an Opinion as this, could it have been depended on, might have been of admirable Uſe to the Primitive Chriſtians, under the Rage of the Heathen. For then, according to the Temptations of ſome of their Perſecutors, when they appear'd in a good humour, the Champions of the Faith might have eſcaped the Axes, and the Gibbets, the Grid<g ref="char:EOLhyphen"/>irons, and the Saws, by doing a very ſmall mat<g ref="char:EOLhyphen"/>ter; even the giving but a little of that ſort of Honour to an Idol, which God neither claims, nor has any regard for?</p>
+                  <pb n="22" facs="tcp:39179:12"/>
+                  <p>I might give ſome other Inſtances, of a grea<g ref="char:EOLhyphen"/>ter diſagreement, than that of a few indifferent Ceremo<g ref="char:EOLhyphen"/>nies, between Us and the Diſſenters. But, as you, Sir, may juſtly think, that a very few words would have been enough, in ſo plain a Ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e; ſo ſome others will conclude, that if the thing I have been attempting, were even ſome new diſcovery, I ſhould deſerve but little thanks for making it.</p>
+                  <p>The diſtance, it will be ſaid, is indeed too great, and they are engaged in an ill Employ<g ref="char:EOLhyphen"/>ment, who inſtead of cloſing the wounds, are for keeping them ſtill open. And now to this Objection, I think, it would be a ſufficient an<g ref="char:EOLhyphen"/>ſwer to ſay, that ſearching Wounds can certainly be no hinderance to their cure: and that a differ<g ref="char:EOLhyphen"/>ent Method is ſo far from promiſing Succeſs, that it is likely, in the Iſſue, to expoſe them that ſhall be employed about it, to ſuch Correction as that in the Prophet, <hi>They have healed the hurt</hi> 
+                     <note place="margin">Jer. 6. 14.</note> 
+                     <hi>of the Daughter of my People Slightly. Saying peace, peace, when there is no peace.</hi> Certainly a Solid, and laſting Union can never be hoped for, till People will be willing ſeriouſly, and impartially to conſider, wherein the difference lies, and who made it.</p>
+                  <pb n="23" facs="tcp:39179:12"/>
+                  <p>Notwithſtanding the hard Cenſures, which ſome have ſo liberally paſſed on the Stiffneſs of our Church: It has not been backward to encou<g ref="char:EOLhyphen"/>rage any real advances <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> towards a good agree<g ref="char:EOLhyphen"/>ment. But it is doubtleſs able to diſtinguiſh be<g ref="char:EOLhyphen"/>tween true Moderation or Peaceableneſs, and ſuch artifices, as are made uſe of, on purpoſe to betray it. For my part, as you know, Sir, that I was always very far from envying any favour, which Our Governours think fit to ſhew to thoſe Diſſen<g ref="char:EOLhyphen"/>ters, who approve themſelves to be truly Conſci<g ref="char:EOLhyphen"/>entious; ſo if ever they ſhall begin to ſhake off their Scruples, and make approaches towards us: I could heartily wiſh they might be received, with all poſſible Expreſſions of Kindneſs, and Con<g ref="char:EOLhyphen"/>deſcention.</p>
+                  <p>But then I muſt own, that the Men of deſign, and intrigue: they that ſometimes blow cold, and ſometimes hot: that ſometimes conſider us, as if we were <hi>Anti-Chriſt,</hi> and <hi>Babylon:</hi> and at other times are ready to ſay to us, <hi>Be not affraid of us, we are your near Friends, yea Churchmen as well as you:</hi> I ſay I muſt acknowledge that ſuch as theſe, have always been conſider'd by me, as a very unaccountable kind of People. If they are for the Eſtabliſh'd Church, how can they go, as they often do, to thoſe Aſſemblies, which are
+<pb n="41" facs="tcp:39179:13"/> founded in this very Opinion, that the Worſhip of our Church is unlawful? If they are Diſſenters, what are become of the Grounds of their Diſſent, when they Joyn with us, as they ſometimes will, even in ſuch things as that Party condemns for moſt offenſive?</p>
+                  <p>The Character which a Diſſenter himſelf is pleas'd to give of ſuch as theſe, would diſpoſe one to be more affraid of their Smiles, than their Frowns: For he tells us, as you have obſerv'd, that they give too much cauſe for us to look upon them as ſuch, as <hi>break all bounds,</hi> and <hi>leap over all</hi> 
+                     <note place="margin">Vox Cla<g ref="char:EOLhyphen"/>mant<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, Sec. 6.</note> 
+                     <hi>hedges:</hi> Such as would indeed ſupport their Re<g ref="char:EOLhyphen"/>putation with <hi>Jeſuitical Artifices;</hi> but yet do the things which are moſt likely <hi>to render them in the eyes of all, as men of flexible, and profligate Con<g ref="char:EOLhyphen"/>ſciences.</hi>
+                  </p>
+                  <p>The ſhewing the miſtakes of a Pretence, which hath been made uſe of to no good Pur<g ref="char:EOLhyphen"/>poſes, hath drawn this Letter you See to a very unuſual length: I ſhall therefore do little more than only mention another fault this Sermon is accus'd of, and that is <hi>Perſonal Reflections.</hi> I do not deny that there are Several things in it, which bear hard upon ſome Peoples Practices: But if I have repreſented nothing as amiſs, which the Word of God doth not alſo condemn, nor let
+<pb n="25" facs="tcp:39179:13"/> fall any Expreſſion, which can be juſtly accounted ſpiteful, or even unbecomeing; I cannot, I think, be ſaid to have exceeded the Bou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds of my Duty. Whether in this matter, as well as the former, I am guilty or not, they that ſhall read my Papers are to determine. Your Judgement, upon the whole, I particularly deſire: and that it may be free from all kind of partiality, I will be contented, while you peruſe them, that you do that, which upon other occaſions I cannot poſſibly conſent to, namely conſider me as a per<g ref="char:EOLhyphen"/>fect ſtranger to you, and not as,</p>
+                  <closer>
+                     <signed>Your Moſt affectionate Friend, and Servant, H. S.</signed>
+                     <dateline>
+                        <date>Auguſt 30th, 1698.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="sermon">
+                  <pb facs="tcp:39179:14"/>
+                  <pb n="27" facs="tcp:39179:14"/>
+                  <head>A SERMON Preached in St. <hi>Saviour</hi>'s Church in <hi>Dartmouth, J<g ref="char:V">Ʋ</g>LY</hi> 24th, 1698. Being the Fifth <hi>Sunday</hi> after <hi>TRINITY.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <bibl>1 <hi>Pet.</hi> 3. 13. Part of the Epiſtle for the Day.</bibl> 
+                        <hi>And who is he that will harm you, if ye be fol<g ref="char:EOLhyphen"/>lowers of that which is good?</hi>
+                     </q>
+                  </epigraph>
+                  <div n="1" type="part">
+                     <head>PART I.</head>
+                     <p>THE greateſt Diſcouragement to any un<g ref="char:EOLhyphen"/>dertaking is the danger that attends it. Many things there are, which People would ſoon conclude fitteſt, and beſt; were it not for the Lion in the way; a doubt of their own Safety
+<pb n="28" facs="tcp:39179:15"/> in them; Fears, and Terrours, which draw them from the attempt.</p>
+                     <p>Tho' the <hi>Iſraelites</hi> had ſo much Experience of the Power of that God, who delivered them from their bondage, and conducted their Armies; Yet upon the very Entrance into the Land of <hi>Promiſe,</hi> they are amaz'd with a Panick Fear, and even reſolve again for the Slavery, they had been ſo wonderfully reſcued from: When they heard <hi>an evil report of the Men of great Stature,</hi> 
+                        <note place="margin">Num. 14. 1.</note> 
+                        <hi>the Giants, the Sons of</hi> Anak, <hi>they lifted up their v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ice, and cried, and wept all night:—They</hi> 
+                        <note place="margin">Verſe 4.</note> 
+                        <hi>ſaid one to another, let us make a Captain, and let us return into</hi> Egypt.</p>
+                     <p>And as it is thus in other matters; So, alas, it is too frequently in the things of Religion. Ma<g ref="char:EOLhyphen"/>ny would more readily eſpouſe it, and the In<g ref="char:EOLhyphen"/>tereſt of it, in a Seaſon of difficulty; were not ſuch a regard for it thought a dangerous thing, a thing that would expoſe them to trouble, loſs, or even utter ruine.</p>
+                     <p>
+                        <hi>Nicodemus</hi> was a man, who ſeemed to have been very well diſpoſed towards <hi>Jeſus:</hi> but he was a <hi>Ruler of the Jews,</hi> and there was no ſmall hazard in a way which was cryed down by all the great men of the times, and therefore, tho<g ref="char:punc">▪</g> 
+                        <hi>he came to Jeſus,</hi> it was <hi>by night.</hi> 
+                        <note place="margin">Jo. 3. 2,</note>
+                     </p>
+                     <pb n="29" facs="tcp:39179:15"/>
+                     <p>The Diſciples, as their worldly Intereſts were leſs; ſo they expreſſed more courage, and reſo<g ref="char:EOLhyphen"/>lution. Defying the Danger, they followed their Maſter, through the whole courſe of his Miniſtry, yea Solemnly engaged their word, that death it's ſelf ſhould never part them. <hi>Tho' we die with</hi> 
+                        <note place="margin">Mat. 26. 35.</note> 
+                        <hi>thee,</hi> ſaid they, <hi>yet will we not deny thee.</hi> And yet when a mighty difficulty actually came, when the Multitude appeared with Swords, and Staves, bound their Lord and led him away: Theſe, men of Reſolution were ſubdued by their own fears, ſhrunk from the Engagements ſo lately made: <hi>they forſook him and fled.</hi> 
+                        <note place="margin">Verſe 56.</note>
+                     </p>
+                     <p>The moſt daring amongſt them all was <hi>Pe<g ref="char:EOLhyphen"/>ter.</hi> He had been the moſt zealous in the Pro<g ref="char:EOLhyphen"/>feſſion of his own ſtedfaſtneſs; he gave ſome proof of his Courage, tho' by a Violence that was unwarrantable: and after the flight of the reſt, followed his Maſter Still at ſome di<g ref="char:EOLhyphen"/>ſtance: But yet at length he failed, and denyed him: Eaſily gave up the Faith, and the conſtan<g ref="char:EOLhyphen"/>cy, he had reſolved on, to terrour, and amaze<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>Theſe and many more, are the ſad inſtances on record, of humane weakneſs. And yet all the while, as to matter of Religion, the affright and deſpondency are for the moſt part ground<g ref="char:EOLhyphen"/>leſs.
+<pb n="30" facs="tcp:39179:16"/> People are ſcar'd from their Duty by the Creatures of their fancy, the <hi>Mormos</hi> of their own invention. A ſtedfaſt adherence to the things of God is not attended with the Diffi<g ref="char:EOLhyphen"/>culties which are ordinarily imagined. St <hi>Peter</hi> here, being now better acquainted with the ten<g ref="char:EOLhyphen"/>dencies of our holy Religion, and the Wiſdom and the Care of Providence, thus beſpeaks the Chriſtians he wrote to, even in days of trouble and ſorrow, <hi>And who is he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>at will harm you, if ye be followers of that which is good?</hi>
+                     </p>
+                     <p>In which words we may obſerve theſe two things.</p>
+                     <p n="1">1. The Chriſtians duty which is here, Sup<g ref="char:EOLhyphen"/>poſed: <hi>If ye be followers of that which is good.</hi>
+                     </p>
+                     <p n="2">2. The Chriſtians ſecurity in the practice of this Duty, propoſed by way of affirmative queſti<g ref="char:EOLhyphen"/>on: <hi>who is he that will harm you? that is, There will be no body.</hi>
+                     </p>
+                     <p>Both theſe I intend to ſpeake to, beginning with the firſt, the Chriſtians duty here ſuppoſed: <hi>If ye be followers of that which is good.</hi>
+                     </p>
+                     <p>Tho' the general deſign and aim of this Ex<g ref="char:EOLhyphen"/>preſſion, ſeems clear enough; yet the particular Notion we are to pitch upon, as the genuine Senſe of it, is not ſo manifeſt. The Opinions of Expoſitors being ſomewhat different (1.) con<g ref="char:EOLhyphen"/>cerning
+<pb n="31" facs="tcp:39179:16"/> the thing to be followed, the <hi>Good</hi> here intended: and (2.) concerning the act, what it is <hi>to be followers of it.</hi> It will not be unprofita<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ble in this caſe, to enquire a little, what they ſay of each.</p>
+                     <p>As for the firſt, the <hi>Good</hi> that is to be follow<g ref="char:EOLhyphen"/>ed, ſome there are that underſtand by it the <hi>Su<g ref="char:EOLhyphen"/>preme Good,</hi> God Almighty himſelf. And ſo the Duty is the very ſame which the Apoſtle St. <hi>Paul</hi> recommends, <hi>Eph. 5. 1. Be ye followers of God as dear Children:</hi> And endeavouring to tranſcribe as far as we are able, the divine Perfections: be<g ref="char:EOLhyphen"/>ing Holy, as he is Holy, Merciful, as he is Mer<g ref="char:EOLhyphen"/>ciful. A thing which our bleſſed Saviour par<g ref="char:EOLhyphen"/>ticularly requires from us in his Sermon on the Mount. <hi>Love your enemies, bleſs them that curſe you, do good to them that hate you, and pray for them</hi> 
+                        <note place="margin">Mat. 5. 44, 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> 
+                        <hi>which diſpitefully uſe you, and perſecute you: That ye may be the Children of your Father which is in Heaven, for he maketh his Sun to riſe on the evil, and on the good, and ſendeth rain on the juſt, and on the unjuſt.</hi> And then a little after. <hi>Be</hi> 
+                        <note place="margin">Ve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſe 48.</note> 
+                        <hi>ye therefore perfect, even as your Father which is in Heaven is perfect.</hi> Some are of the Opinion too, that <hi>Good</hi> here is to be taken for that perfect Ex<g ref="char:EOLhyphen"/>emplar or pattern of goodneſs. Our Lord Chriſt: Who came to propoſe to the imitation of man<g ref="char:EOLhyphen"/>kind, in his own perſon and actions, the higheſt
+<pb n="32" facs="tcp:39179:17"/> perfection of Vertue. And to be followers of him, is to walk by that pattern, expreſſed in the Goſpel as near as poſſibly we can, to put on his patience, his love his humility, and all the reſt of thoſe Divine Graces, which adorned his incompa<g ref="char:EOLhyphen"/>rable life: as he exhorts us himſelf, <hi>to learn of him, who was meek, and lowly in heart.</hi> 
+                        <note place="margin">Mat. 11. 29.</note>
+                     </p>
+                     <p>Again <hi>Good</hi> may be here taken for the Idea or Rule of goodneſs, which the Law of God pre<g ref="char:EOLhyphen"/>ſents us with: that Divine Rule, which we are to ſettle in our minds, and to have our eyes ſtill at, in all the circumſtances of our Life.</p>
+                     <p>The Revelations which God hath been pleas'd to make from Heaven, have this great end, namely, to give us a true, and full account of that Goodneſs, which our great Creator Deſign'd us for. This we are by a diligent Enquiry, and Meditation, to be familiarly acquainted with and to have a due regard unto, in all our Actions. In all thoſe mazes, and perplexities of affairs, where profit ſeems to call us one way, and ſafety or pleaſure another In all thoſe various Accidents, and Changes, to which we are liable: Our Rule we muſt have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ixt before our Eyes, and by that reſolve to be guided. We are not to enquire, what is advantagious, or what is agreeable to us, but what is juſt, and what is good: and that,
+<pb n="33" facs="tcp:39179:17"/> come what will come, reſolve to keep to. And this laſt notion of <hi>Good,</hi> ſeems beſt, to correſpond with the Apoſtles deſign in this place.</p>
+                     <p>As for the regard we ought to have for this <hi>Good,</hi> that of <hi>following it,</hi> there is but little more neceſſary to be ſaid, than what hath been already intimated. Only it may not be improper to note the different Reading of ſome very Ancient Copies. For inſtead of the word <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Imita<g ref="char:EOLhyphen"/>tors, <note place="margin">Cod. Alex.</note> or Followers, they have it <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Zealots:</hi> which makes a very agreeable Senſe. It is the Chriſtians duty to be zealous for <hi>Good:</hi> to purſue it at all times with warmth, and affection, and reſolution of mind, notwithſtanding all the difficulties, and diſcouragements that lie in the way. He is to ſet up that <hi>Good</hi> which Gods Law requires of him, above his hopes, and above his fears: above every carnal Intereſt, or temporary Deſign: and reſolve, that no conſide<g ref="char:EOLhyphen"/>ration in the World ſhall either force, or draw him, to make ſhipwrack of a good Conſcience.</p>
+                     <p>In ſhort then, to be followers of <hi>Good,</hi> is ſeriouſly and in good earneſt, to endeavour on all occaſions, to govern our ſelves according to the great Rule, or Standard of Goodneſs, the divine Law.</p>
+                     <pb n="34" facs="tcp:39179:18"/>
+                     <p>The meaning of the words being thus Ex<g ref="char:EOLhyphen"/>plain'd, I ſhall for the farther clearing of this duty, endeavour briefly to do theſe three things.</p>
+                     <p n="1">1. Point out ſome of the chief Branches of that <hi>Good</hi> we are to <hi>be followers of<g ref="char:punc">▪</g>
+                        </hi> thoſe eſpecial<g ref="char:EOLhyphen"/>ly, which the Apoſtle recommendes in this Chapter.</p>
+                     <p n="2">2. Conſider ſome of the many Obligations which ſtrongly engage us to it.</p>
+                     <p n="3">3. Offer a motive or two, to encourage your Zeal in it.</p>
+                     <p>I begin with the Firſt, to point out ſome of <note place="margin">I.</note> the chief Branches of that <hi>Good,</hi> we are to <hi>be followers of.</hi> And now in this matter, the Pro<g ref="char:EOLhyphen"/>phet <hi>Micah</hi> excellently directs us, <hi>Mic.</hi> 6. 8. Saying. <hi>He hath ſhewed thee, O man, what is good,</hi> he hath given thee an Idea of <hi>Good,</hi> a rule <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> what is juſt, and upright, placing it in thine own mind, or conſcience<g ref="char:punc">▪</g> And moreover, a more exact, and perfect ſtandard of it, in his own word, which is profitable for Doctrine, for reproof, for Correction and Inſtruction in Righteouſneſs. And, behold, this is the ſum of the <hi>good</hi> which he hath thus ſet before thee. <hi>What doth the Lord re<g ref="char:EOLhyphen"/>quire of thee, but to do juſtice, love mercy, and walk humbly with thy God?</hi>
+                     </p>
+                     <pb n="35" facs="tcp:39179:18"/>
+                     <p>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ptime branch, therefore, of the <hi>Good</hi> we are to be followers of, is <hi>Juſtice:</hi> A ſtrict Ju<g ref="char:EOLhyphen"/>ſtice, towards all Mankind, Superiours, Equals, in<g ref="char:EOLhyphen"/>feriours, Our ſelves. <hi>A rendring to all their dues, tribute to whom tribute is due, Cuſtom to</hi> 
+                        <note place="margin">Rom. 13. 7, 8.</note> 
+                        <hi>whom Cuſtom, fear to whom fear, honour to whom honour:</hi> An owing to no man any thing: A being harmleſs, inoffenſive, upright, and ſober in our whole Converſion. The thing which St. <hi>Peter</hi> adviſeth, as the means of Securing to our Selves the Divine Protection, at the <hi>10th</hi> and <hi>11th</hi> Verſes of this Chapter, <hi>He that will love life, and ſee good Days, let him refrain his tongue from evil, and his lips that they ſpeak no guile: Let him eſchew evil and do good, let him ſeek peace, and enſue it.</hi>
+                     </p>
+                     <p>Another great branch of the <hi>Good</hi> we are to follow, is <hi>Mercy,</hi> love, kindneſs, and good-will: a being as Serviceable to our Brethren as we can, and never violent againſt them upon any injury received: willing to give, and ready to forgive: cloſing and Uniting with them in every lawful thing: The ſubject of St. <hi>Peter</hi>'s Exhortation, at the <hi>8th</hi> and <hi>9th</hi> Verſes of this Chapter, <hi>Be ye all of one mind, having compaſſion one of another: love as Brethren, be pitiful, be courteous, not rendring e<g ref="char:EOLhyphen"/>vil for evil, or railing for railing, but contrariwiſe Bleſſing</hi>
+                     </p>
+                     <pb n="36" facs="tcp:39179:19"/>
+                     <p>And then the other great branch of <hi>Good,</hi> mentioned by the Prophet, and which we are to be zealous in is, <hi>The walking humbly with God:</hi> A being duly ſenſible of the infinite perfection of the Divine Nature, of our dependence upon him, as alſo of our Frailty and Unworthineſs; and ſo offering up unto him, all the honour, worſhip, and adoration, that we are able: A being firſt well-grounded, and then ſtedfaſtly perſevering in thoſe religious performances, which he hath taught us are agreeable to his will, notwithſtand<g ref="char:EOLhyphen"/>ing all the oppoſition we ſhall meet with. The thing which Our Apoſtle recommends at the <hi>14th</hi> and <hi>15th</hi> verſes of this Chapter: <hi>Be not a<g ref="char:EOLhyphen"/>fraid, ſaith he, of their terrour, neither be troubled, but ſanctify the Lord God in your hearts: And be ready always to give an anſwer to every man that asketh you a reaſon of the hope that is in you, with weekneſs, and fear.</hi>
+                     </p>
+                     <p>In this evil World, which is filled with Diſor<g ref="char:EOLhyphen"/>der and Corruption, the Church of God is ſtill militant: and the buſineſs of all the true Mem<g ref="char:EOLhyphen"/>bers of it is hereupon increaſed. To the religi<g ref="char:EOLhyphen"/>ous ſervices they pay directly to God, they are to add thoſe Divine qualities, which relate to the oppoſition of unreaſonable men.</p>
+                     <pb n="37" facs="tcp:39179:19"/>
+                     <p>Such is a Firmneſs, or Conſtancy in matters of Religion: A making a due Enquiry into the Reaſonableneſs and Excellency of the way we en<g ref="char:EOLhyphen"/>gage in, and then a being ſtedfaſt in it, in all circumſtances whatſoever: A being <hi>steadfaſt and</hi> 
+                        <note place="margin">1 Cor. 15. 58.</note> 
+                        <hi>immoveable in the work of the Lord,</hi> as St. <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>horts: or as we are directed in another place <hi>Holding faſt the profeſſion of our faith without wa<g ref="char:EOLhyphen"/>vering.</hi> 
+                        <note place="margin">Heb. 10. 23.</note> Such is too, Zeal for the Intereſts of it: Looking upon the things of God and Religion as worthy of our firſt and chiefeſt concern. Ac<g ref="char:EOLhyphen"/>cording to the Advice of St. <hi>Paul. Striving toge<g ref="char:EOLhyphen"/>ther</hi> 
+                        <note place="margin">Phil: 1. 27, 28.</note> 
+                        <hi>for the faith of the Goſpel, and nothing terrifi<g ref="char:EOLhyphen"/>ed by the Adverſaries:</hi> Or in the words of that Exhortation of St. <hi>Jude. Earneſtly contend<g ref="char:EOLhyphen"/>ing</hi> 
+                        <note place="margin">Jud. 3.</note> 
+                        <hi>for the faith once delivered to the Saints.</hi>
+                     </p>
+                     <p>Theſe are the main branches of that <hi>Good</hi> which we are to be followers of. And the firſt thing I propoſed, being thus finiſhed, I now proceed to the ſecond, To conſider ſome of thoſe <note place="margin">II.</note> many Obligations that bind us to it.</p>
+                     <p>And here now, not to inſiſt upon ſuch as re<g ref="char:EOLhyphen"/>late to us only on the account of our being men, We muſt be very ignorant of the nature of the Chriſtianity we profeſs, if we do not perceive it to be, a Divine contrivance powerfully to reeſta<g ref="char:EOLhyphen"/>bliſh the greateſt goodneſs in the World. Tho'
+<pb n="38" facs="tcp:39179:20"/> the Hypocrite makes uſe of it, as a cover for his in<g ref="char:EOLhyphen"/>iquity: and ſome fooliſh People conſider it only as an art, whereby to get to heaven without the trouble of a good Life: the glorious deſign of our Excellent Religion moſt manifeſtly appears to be, an Univerſal Reformation, and the high<g ref="char:EOLhyphen"/>eſt purity, the making the Sons and Daughters of men ſtedfaſtly upright, holy, and good. This was what the <hi>Meſſiah</hi> propoſed to himſelf as the great end of his unſpeakable humiliation. <hi>He gave</hi> 
+                        <note place="margin">Tit. 2. 14.</note> 
+                        <hi>himſelf for us, that he might redeem us from all iniqui<g ref="char:EOLhyphen"/>ty, and purify unto himſelf a peculiar People, zealous of good works.</hi> And this is what every Chriſtian is to look upon, as the very Buſineſs, for which he is new-form'd by the Power of God, <hi>For we are his workmanſhip, created in Christ Jeſus unto</hi> 
+                        <note place="margin">Eph. 2. 10.</note> 
+                        <hi>good works.</hi>
+                     </p>
+                     <p>To give a full account of the mighty Effica<g ref="char:EOLhyphen"/>cy of the Goſpel in order to this bleſſed end; reckoning up the ſeveral Obligations to a good Life, which it brings upon every Profeſſor of it; would be a Work too great, much too great for ſuch a Diſcourſe as this. I will only very brief<g ref="char:EOLhyphen"/>ly put you in mind of a few of the chief. And</p>
+                     <p n="1">1. We are to be followers of <hi>Good, in obedi<g ref="char:EOLhyphen"/>ence to Chriſt's precepts.</hi> Our great Maſter, Chriſt, was a Preacher of Righteouſneſs, and hath deſcri<g ref="char:EOLhyphen"/>bed
+<pb n="39" facs="tcp:39179:20"/> the Stricteſt, and moſt excellent meaſures of it. He came <hi>to fill up the Law:</hi> to make it a <note place="margin">Mat. 5. 17.</note> better, and Diviner Rule, than ever the world was acquainted with before: to advance it to a per<g ref="char:EOLhyphen"/>fection, beyond the Morality of the Jews, and all the Philoſophy of the Gentiles. And now can we pretend to be the Diſciples of ſuch a Ma<g ref="char:EOLhyphen"/>ſter, and expreſs no regard to this his moſt admi<g ref="char:EOLhyphen"/>rable Inſtitution? Can we call our ſelves by the name of ſuch an Excellent Inſtructer, and yet trample on his holy Commandments in the con<g ref="char:EOLhyphen"/>duct of our Lives?</p>
+                     <p>
+                        <hi>A Son honoureth his Father, and a ſervant his Maſter: If then I be a father where is mine ho<g ref="char:EOLhyphen"/>nour? and if I be a maſter where is my fear? Saith the Lord of Hoſts.</hi> And the reaſonableneſs of <note place="margin">Mal. 1. 6.</note> ſuch an Expoſtulation is the ſame in our preſent Caſe<g ref="char:punc">▪</g> If Chriſt be our Lord and King, it is but juſt that we ſhould pay Obedience to the Divine Laws which he hath delivered. If he be <hi>that Prophet whom God promiſed to raiſe up unto his</hi> 
+                        <note place="margin">Acts. 3. 22.</note> 
+                        <hi>People,</hi> we are doubtleſs obliged <hi>to hear him, in all things whatſoever</hi> he ſays unto us.</p>
+                     <p n="2">2. We are to follow that which is <hi>Good in con<g ref="char:EOLhyphen"/>formity to Chriſt's Example.</hi> He did no ſin, neither was guile found in his lips: He was a Lamb without blemiſh, and without ſpot: He was
+<pb n="40" facs="tcp:39179:21"/> the Holy One, and the Juſt: He went about doing good. As there was not the leaſt mixture in him of that Inſincerity, which renders all the paint of Hypocrites nothing elſe but a loathſome Deformity; ſo there were none of the frailties, and defects, which Stain the Beauty of the moſt eminent Saints. As you read the Goſpel you find that in his whole Converſation, He was Obedient, and Meek, and Patient, and Humble, and Free: without any appearance of roughneſs, and ſeverity, unleſs when the honour of his Father engaged him to a juſt Indignation, in the chaſtiſement of the Profane, and in the reproof of Diſſemblers. In ſhort, the Hiſtory of his Life is a continued Account of a mighty Zeal for the Glory of God, and of tranſcendent, and amaz<g ref="char:EOLhyphen"/>ing good-will towards men.</p>
+                     <p>Such was our great Leader, the Captain of our Salvation. And now to uſe the words of the Apoſtle, ſpoken on another Occaſion, <hi>what com<g ref="char:EOLhyphen"/>munion hath light with darkneſs, what fellowſhip</hi> 
+                        <note place="margin">2 Cor. 6. 14, 15.</note> 
+                        <hi>hath righteouſneſs with unrighteouſneſs? what con<g ref="char:EOLhyphen"/>cord hath Chriſt with Belial?</hi> How can they whoſe lives are a contradiction to all the Divine Vertues before mention'd, own themſelves the followers of the moſt holy Jeſus? How can rotten, and corrupted Members, pretend an Union to ſuch a
+<pb n="41" facs="tcp:39179:21"/> Head? As it is a monſtrous thing for ſuch as profeſs Chriſtianity, to be ſo very unlike him, whoſe name they are call'd by; ſo it is a direct oppoſition, and affront to his great Deſign: ſince his Life, which was full of the moſt perfect good<g ref="char:EOLhyphen"/>neſs, was, as I have noted already, intended by him as a Pattern to all his Followers. He was converſant with men in this vale of miſery for ſeveral years together, appearing in the common Ranks of People, and paſſing through a great variety of different uſage, for this very purpoſe, that he might lively expreſs unto us the moſt uſeful Idea of goodneſs in the Words of St. <hi>Peter, leave us an Example, that we ſhould follow his Steps. 1 Pet.</hi> 2. 21.</p>
+                     <p n="3">3. Our Bleſſed Maſter having thus Engaged us to the practice of uprightneſs, by teaching us the moſt Excellent rules of it, and propoſing to us the brighteſt Example of it, brings a further Obligation upon all his Followers, even that of the <hi>moſt ſacred Vows.</hi> He requires that his Servants ſhould take up the moſt ſerious purpoſes of holi<g ref="char:EOLhyphen"/>neſs, and in the moſt Solemn manner, as it were, conſecrate themſelves to the <hi>following that which is good.</hi>
+                     </p>
+                     <p>This was a thing which the Enemies of Chri<g ref="char:EOLhyphen"/>ſtianity could not but note, in the Primitive
+<pb n="42" facs="tcp:39179:22"/> Times, to the praiſe of that Religion, they ſo laboured to deſtroy. In that Epiſtle which was <note place="margin">Plin. Epiſt. l. 10. E. 97.</note> written concerning the Chriſtians, to <hi>Trajan</hi> the Emperour, by <hi>Pliny</hi> then Governour of <hi>Bithy<g ref="char:EOLhyphen"/>nia;</hi> tho' he tell<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s him, that they were a ſort of People given up indeed to a corrupt Superſtition, yet he confeſſes that they were ſuch as had bound themſelves by a <hi>Sacrament,</hi> not to commit The<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, or Robbery, or Adultery; not to be guilty of cheating, or perfidiouſneſs.</p>
+                     <p>At our firſt admiſſion to the Profeſſion of Chri<g ref="char:EOLhyphen"/>ſtianity, by the La<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er of Regeneration, we make a ſolemn Engagement continually to conflict with, and to reſiſt, all the Temptations that ſhall beſet us, and to perform, as far as we ſhall be able, the works of Diſciples: We bind ourſelves by Oath as Souldiers to their General, to be true to the Service, and Obedient to the commands of our Maſter, and Lord. And in that other Sacrament of his Holy Supper, we Ratify and Confirm theſe Vows, and anew devote our ſelves unto him: We take up freſh reſolutions of uprightneſs, and holineſs: Reſign our ſelves to his pleaſure, and offer up our Souls, and bodies, as a Sacrifice unto the moſt High.</p>
+                     <p n="4">4. That all this Proviſion for a good Life may not fail of the end it aims, through the want
+<pb n="43" facs="tcp:39179:22"/> 
+                        <hi>of Divine aſſiſtance,</hi> That in a moſt plentiful manner, is promiſed by Chriſt unto his Church. He hath appointed an Order of Men to preach the Doctrine of holineſs, even till the end of the World: And he hath declared that he will be with them, to give that Doctrine a Divine power and efficacy; to make it abundantly ſuf<g ref="char:EOLhyphen"/>ficient to conquer all reſiſtance, and beat down the ſtrong-holds of iniquity.</p>
+                     <p>He prevents with his Grace, diſpoſeth the hearts of People by a mighty influence, to hear<g ref="char:EOLhyphen"/>ken to the calls of the Goſpel. And then he dwells with the Believer, His holy Spirit being enter'd into him, conſecrates him into a Temple for the Lord. <hi>Know you not,</hi> Saith S. <hi>Paul, that ye</hi> 
+                        <note place="margin">1 Cor. 3, 16.</note> 
+                        <hi>are the Temple of God, and that the Spirit of God dwelleth in you?</hi>
+                     </p>
+                     <p>Of what force this conſideration is, to oblige us to Conſtancy in all the parts of our Duty: to render us exceeding careful to deny ungodlineſs, and worldly luſts, and live ſoberly, righteouſly, and godly in this preſent world; it is impoſſible for you not be ſenſible. <hi>Adultery fornication, unclean<g ref="char:EOLhyphen"/>neſs,</hi> 
+                        <note place="margin">Gal. 5. 19.</note> 
+                        <hi>laciviouſneſs. idolatry, witchcraft, hatred, vari<g ref="char:EOLhyphen"/>ance, emulations, wrath, strife, ſeditions, hereſies, en<g ref="char:EOLhyphen"/>vyings, murders, drunkenneſs, revellings,</hi> and the other <hi>works of the Fleſh;</hi> m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt needs be ſtrangely
+<pb n="44" facs="tcp:39179:23"/> unagreeable<g ref="char:punc">▪</g> and monſtrous in them, who own themſelves to be <hi>led by the Spirit.</hi> Yea the A<g ref="char:EOLhyphen"/>poſtle tells us, that theſe practices are ſuch a pro<g ref="char:EOLhyphen"/>fanation, as will meet with terrible vengeance: <hi>If any man defile the Temple of God, him ſhall God de<g ref="char:EOLhyphen"/>ſtroy;</hi> 
+                        <note place="margin">1 Cor. 3. 17.</note> 
+                        <hi>for the temple of God is holy, which temple ye are.</hi>
+                     </p>
+                     <p n="5">5. Becauſe the minds of men are naturally ſelfiſh, and we are apt to be very heavy in the purſuit of the moſt Excellent ends, unleſs we are like to find our Intereſt in them: To all the for<g ref="char:EOLhyphen"/>mer Bonds engaging us to follow that which is <hi>Good,</hi> God hath been pleaſed to add the <hi>Proſ<g ref="char:EOLhyphen"/>pect of Infinite advantage.</hi>
+                     </p>
+                     <p>He hath plainly told us in his word that this is the very Condition on which Salvation and e<g ref="char:EOLhyphen"/>ternal happineſs are propoſed to us: That this is the thing, which he indiſpenſibly requires in us, if we will eſcape his fury, and dwell with him forever.</p>
+                     <p>Indeed there are a ſort of Artiſts in Religion, as I have already intimated, that have laboured to find out a much eaſier way to heaven, than that of a Conſtant, and Uniform Obedience: Men that have diſcovered a Method, for ſparing a ſweet iniquity, and indulging a boſom-Sin: yea that are for reconciling <hi>God and Mammon,</hi> the ſinful cares and pleaſures of this preſent world, with the aſſured hopes of a bleſſed Eternity. But
+<pb n="45" facs="tcp:39179:23"/> the new principles, and ſubtile contrivances of ſuch as theſe, are nothing elſe but Juggling, and Impoſture. If the Goſpel be true, all the pre<g ref="char:EOLhyphen"/>cious names we may call our ſelves by, and all the intereſt we may pretend to in the promiſes; will ſignifie juſt nothing at all, without a ſincere abhorrence of every corrupt way. <hi>For the wrath</hi> 
+                        <note place="margin">Ro. 1. 18.</note> 
+                        <hi>of God is revealed from heaven againſt all ungodli<g ref="char:EOLhyphen"/>neſs and unrighteouſneſs of men, who <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>old the truth in unrighteouſneſs.</hi>
+                     </p>
+                     <p>On theſe, which we have thus briefly conſi<g ref="char:EOLhyphen"/>dered, and more accounts, it is, that we are ob<g ref="char:EOLhyphen"/>liged to <hi>be Followers of that which is good.</hi> And ſuch ties, ſuch bounds as theſe, which imply not only <hi>our Duty,</hi> but our greateſt and moſt impor<g ref="char:EOLhyphen"/>tant <hi>Intereſts,</hi> are, one would think, ſo ſtrong, that they ſhould not eaſily be broken. But ſince humane frailty is ſuch, that it is too well known to deceive the juſteſt and moſt reaſonable Ex<g ref="char:EOLhyphen"/>pectations; I will, as I promiſed, now in the third place, add a motive or two, to ſti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> us <note place="margin">III.</note> up to this our great work.</p>
+                     <p>The ſenſe of duty, and of future rewards, is alas, but very <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aint in many People: and they ſeldom reflect either on the force of the former, or the value of the latter.</p>
+                     <pb n="46" facs="tcp:39179:24"/>
+                     <p>But then there are a ſort of things, which are <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o their inclinations, and very apt to take their minds: Some preſent enjoyments, which they can ſee, and feel, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſt the real be<g ref="char:EOLhyphen"/>nefit of. And now <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> pur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of <hi>Good,</hi> is not without advantages <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> kind <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> will mention two, which I <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> you to conſider viz. <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                        </note> The <hi>pleaſure,</hi> and the <hi>honour of it.</hi>
+                     </p>
+                     <p n="1">1. Notwithſtanding the frightful apprehenſi<g ref="char:EOLhyphen"/>ons which ſome People have of it; it is doubt<g ref="char:EOLhyphen"/>leſs a <hi>Pleaſant</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to be followers of that which is <hi>Good.</hi> It is to do that which we ſee all the Crea<g ref="char:EOLhyphen"/>tures in the world beſides, do cheerfully perform: to act according to <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> deſign of our nature, to obſerve <gap reason="illegible" resp="#APEX" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> appointed <gap reason="illegible" resp="#APEX" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap>, and purſue the <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> for which we were made.</p>
+                     <p>It is to ſtudy, and obſerve, the moſt reaſon<g ref="char:EOLhyphen"/>able and Excellent <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>the ſtatutes of the</hi> Great God, <hi>which are right <gap reason="illegible" resp="#APEX" extent="2 words">
+                              <desc>〈◊◊〉</desc>
+                           </gap> the Heart, the</hi> 
+                        <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pſal. 19. 8.</note> 
+                        <hi>Judgements of the Lord which are true and righteous altogether: more to be deſir'd than Gold, yea than much fine Gold, Sweeter alſo than Hony, and the Hony-comb.</hi> It is to find out that <hi>Wiſdom,</hi> which maketh a Man <hi>happy, the Merchandize whereof</hi> 
+                        <note place="margin">Prov. 3. 13.</note> 
+                        <hi>is better than Silver, and the gain thereof than fine Gold:</hi> that is <hi>more Precious than rubies, and all the things thou canſt deſire are not to be compar'd unto
+<pb n="47" facs="tcp:39179:24"/> her:</hi> In whoſe <hi>right Hand is length of days, and in</hi> 
+                        <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                        </note> 
+                        <hi>her left Hand Riches and honour:</hi> whoſe <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ays are ways of pleaſantneſs and all her paths are Peace.</hi>
+                     </p>
+                     <p>Indeed were there no other advantages of an honeſt ſincerity in the Practice of Good, but only that inward peace, and Satisfaction that attend it, Theſe alone would be a Sufficient Encouragement. The Bleſſed calm, and tranquillity of mind, which reſult from the Conſcience of doing well is an in<g ref="char:EOLhyphen"/>finite pleaſure: and all the Violence and Rage of the World cannot render him that has it miſer<g ref="char:EOLhyphen"/>able. Under calumnies, threatnings, injuries; yea the worſt Uſage, which the mal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce of men and Devils, can Invent: the mind of the Stedfaſt Good Man will be ſtill erect. When other enjoyments are ſna<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h'd from him, he will enjoy his very duty, and his own conſtancy will be his refreſhment. His Soul will be full of ineffable Comfort, as he take's up that generous Reſolution of <hi>Joh,</hi> and ſays <hi>Till I die, I will not remove my</hi> 
+                        <note place="margin">Job 27. 5, 6.</note> 
+                        <hi>integrity from me: My righteouſneſs I hold faſt, and will not let it go: my heart ſhall not reproach me, ſo long as I live.</hi>
+                     </p>
+                     <p n="2">2. As a Zealous perſuit of <hi>Good</hi> is thus a pleaſant thing; ſo notwithſtanding all the attempts of thoſe, who ſeem willing to bring it out of credit in the World: it is, and will be ſtill <hi>of
+<pb n="48" facs="tcp:39179:25"/> good fame, and reputation:</hi> at le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t amongſt the <note place="margin">Prov. 4. 8.</note> moſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> part of Mankind. <hi>Exalt her, and ſhe ſhall promote thee, ſhe ſhall bring thee to ho<g ref="char:EOLhyphen"/>nour, when thou doſt embrace her:</hi> ſai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h <hi>Solomon,</hi> concerning that Divine Wiſdom before-mentio<g ref="char:EOLhyphen"/>ned. <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> up the Law of God as the Rul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of your lives, and it will be your praiſe, and your glory. Agreeable to this are the words which the Prophet ſaid to <hi>Eli,</hi> in the name of the Lord: <hi>Them that honour me, I will honour, and thoſe that</hi> 
+                        <note place="margin">1 Sam. 2. 30.</note> 
+                        <hi>deſpiſe me, ſhall be lightly regarded.</hi>
+                     </p>
+                     <p>There are ſuch powerful Attractives in vertue, and uprightneſs, as draw the Eyes, and command the regard even of the wor<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of men. They that will not be at the pains, to practice holi<g ref="char:EOLhyphen"/>neſs themſelves; cannot but look upon it as com<g ref="char:EOLhyphen"/>ly, and are even forced to pay it a kind of vene<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ation. He that was doubdeſt very capable of making a good judgment, tells us, <hi>That the righteous is more excellent than his Neighbour.</hi> He <note place="margin">Pro. 12, 26.</note> is wiſer, and greater, his aims are more gene<g ref="char:EOLhyphen"/>rous, and noble<g ref="char:punc">▪</g> and notwitſtanding all the dif<g ref="char:EOLhyphen"/>ference which may appear in the outward circum<g ref="char:EOLhyphen"/>ſtances, the world cannot but be ſenſible of it. But then as <hi>Solomon</hi> there adds, <hi>The way of the wicked ſeduceth him,</hi> or puts a cheat upon him: inſtead of ſecuring the purchaſe he deſired, it leads him to ſhame, and infamy.</p>
+                     <pb n="49" facs="tcp:39179:25"/>
+                     <p>The uſual arts which too many apply them<g ref="char:EOLhyphen"/>ſelves to, whereby to get a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ame, or mount up to greatneſs, for this reaſon that they are defec<g ref="char:EOLhyphen"/>tive in point of goodneſs, do commonly over<g ref="char:EOLhyphen"/>throw the very end, for which they were cho<g ref="char:EOLhyphen"/>ſen. For to walk in crooked paths, and to car<g ref="char:EOLhyphen"/>ry on crooked deſigns, to manage tricks, and live in diſguiſe: to halt between two Opinions, and hypocritically to trifle in the great buſineſs of Religion makes the Character of a very mean Spirit. Whilſt a viſible Sincerity, a Sincerity which will be conſtant to its ſelf, and cannot change with the times, is a moſt deſirable Orna<g ref="char:EOLhyphen"/>ment: and even he that fall<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> with it, falls with ho<g ref="char:EOLhyphen"/>nour and commendation.</p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>PART II.</head>
+                     <p>THE other thing obſerved in the Text is, the Chriſtians ſecurity in the practice of his du<g ref="char:EOLhyphen"/>ty: <hi>wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> is he that will harm you?</hi> Who is he that is about to bring evil upon you? That ſhall, or will, do you any hurt or miſchief? The import of ſuch Queſtions as theſe, ſo common in Holy Scripture, and indeed in all other diſcourſe, is
+<pb n="50" facs="tcp:39179:26"/> manifeſt enough. The ſeeming affirmation is a vehement denial: So that the meaning of the words is plainly this. Uprightneſs is the way of ſafety: To follow that which is good, is the ſureſt means, to preſerve our ſelves from hurt, or evil. Amongſt all the temptations, and dangers, we are liable to, in a troubleſome ſinful world; the beſt expedient for our preſervation, is, to be conſtant to our duty, and upright in all the parts of our Converſation. The likelieſt way to e<g ref="char:EOLhyphen"/>ſcape, is to reſolve againſt every unlawful means, every ſinful compliance. A ſteadfaſt, and unal<g ref="char:EOLhyphen"/>terable purpoſe of <hi>Good,</hi> tho' ſometimes, perhaps, it may not look ſo promiſing, will be found at laſt the beſt ſecurity. For unleſs we hurt our ſelves, nothing can do us miſchief.</p>
+                     <p>This holds with relation, both to <hi>ſpiritual, and temporal Evils</hi> I. will ſhew the truth of it, a little briefly, as to the firſt: a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d then come ſome<g ref="char:EOLhyphen"/>what more fully to conſider it, with reſpect to the ſecond.</p>
+                     <p>Firſt, <hi>if we be followers of that which is good, zealous and</hi> reſolved for our duty, <hi>None ſhall do us any ſpiritual miſchief:</hi> No temptation ſhall be too ſtrong for us, and cauſe us to fall. Our ſpi<g ref="char:EOLhyphen"/>ritual Enemies, againſt whom, ſo often, and with ſo much reaſon, we are exhorted to watch;
+<pb n="51" facs="tcp:39179:26"/> never do, nor can prevail upon us, by open force, but only through our eaſineſs, neglect, or inad<g ref="char:EOLhyphen"/>vertency. Captivate us they often do, by ſtrata<g ref="char:EOLhyphen"/>gem, or ſurprize; but they cannot by plain Vi<g ref="char:EOLhyphen"/>olence: Like <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ly Thieves, wait for an Oppor<g ref="char:EOLhyphen"/>tunity to creep into the houſe, at ſome neglected Window; but are not able to break the Door. St. <hi>James</hi> tells us, that <hi>Every man is tempted,</hi> 
+                        <note place="margin">Jam. 1. 14.</note> 
+                        <hi>when he is drawn away of his own luſt and enticed:</hi> that is, when his eſſen<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>al deſires obtain a conſent to a Temptation, which could not prevail without it. Anſwerable to which is that advice of <hi>Solomon,</hi> about keeping the heart: <hi>Keep it with diligence,</hi> 
+                        <note place="margin">Pro. 4, 23.</note> 
+                        <hi>ſaith he, and the reaſon he adds is this, for out of it, are the iſſues of life.</hi> If thou ſecureſt thy ſelf againſt thine own inclinations, and takeſt ſuch care that they may not draw thee to an unlaw<g ref="char:EOLhyphen"/>ful compliance, thou art ſafe enough. For every evil action has its Original from the heart, and cannot proceed but from a diſorder there.</p>
+                     <p>Of all the Enemies we have to deal with, the Devil may juſtly be reckoned the moſt powerful, and prevailing. He is a roaring lion, and he ſeeketh whom he may devour. He is a ſpirit of much ſubtlety, and cunning as well as ſtrength. He is too of a reſtleſs and implacable malice. And yet notwithſtanding all his force, and all his
+<pb n="52" facs="tcp:39179:27"/> induſtry, cannot deſtroy the ſoul, unleſs it concuts to its own ruin. <hi>Reſiſt the Devil and he will flee</hi> 
+                        <note place="margin">Jam. 4. 7.</note> 
+                        <hi>from you,</hi> ſaith St. <hi>James:</hi> and S. <hi>Paul</hi> exhorts us, <hi>not to give place to the Devil.</hi> How, may it <note place="margin">Eph. 4. 27.</note> be ſaid, can we oppoſe, and ſtand but againſt, Principalities and Powers<g ref="char:punc">▪</g> can we that are fleſh and blood, prevail againſt a mighty ſpir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, a ſpirit that commands in this inferiour world, a ſpirit whoſe motions are quick as the light; and is not hindred by any obſtacles of matter? How can we do other, than give place to ſuch a Being as this.</p>
+                     <p>I anſwer, that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in natural things, his Pow<g ref="char:EOLhyphen"/>er <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> much beyond ours, bringing wonderful things to paſs, as often as the Almighty is pleaſed to extend the Chain, in which he keeps him<g ref="char:punc">▪</g> yet in moral things it is inferiour, and his moſt vigo<g ref="char:EOLhyphen"/>rous aſſaults are conquerable, by a ſtedfaſt reſo<g ref="char:EOLhyphen"/>lution. He can dreſs up the b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> it, make it look ſweet, and pleaſant, choo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e the moſt likely Sea<g ref="char:EOLhyphen"/>ſon, and then propoſe it to our view: But being armed with that aſſiſtance, which God ordinarily beſtows on his ſervants, we have ſtill power to refuſe it; he cannot force us to ſwallow it down. To be ſhort, God is graciouſly pleaſed, not to expoſe us as a prey to our ſpiritual enemies: His Grace ſhall be ſufficient for us, if we ſincere<g ref="char:EOLhyphen"/>ly pray for it, and diligently make uſe of it:
+<pb n="53" facs="tcp:39179:27"/> 
+                        <hi>He will not ſuffer you to be tempted above that ye</hi> 
+                        <note place="margin">1 Cor. 10. 13.</note> 
+                        <hi>are able, but will with the temptation, alſo make a way to eſcape, that ye may be able to bear it.</hi>
+                     </p>
+                     <p>A meditation which might be recommended, as uſeful for ſeveral very conſiderable purpoſes: as to ſhew us the nature of aſſurance and how it is that we are to ſeek for it: to give us a right notion of Perſeverance, and of the terms on which it is promiſed to the Elect: To excite us to con<g ref="char:EOLhyphen"/>fidence, and courage, and induſtry, and praiſes. But I ſhall omit theſe things, that I may go on with my other deſign which is, to illuſtrate this truth with reſpect to temporal Evils.</p>
+                     <p>
+                        <hi>Secondly</hi> therefore, <hi>If <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e followers of that which is Good, no one ſhall do you any temporal miſchief.</hi> Uprightneſs is an exccellent ſecurity againſt Ca<g ref="char:EOLhyphen"/>lamities: the beſt Preſervative againſt miſery, and ſorrow.</p>
+                     <p>But, it will be ſaid perhaps, how can this be true, ſince both the Word of God, and every Age of the World, have afforded ſo many inſtances to the contrary? They were men who had juſtly <hi>obtain'd a good report,</hi> yeamen <hi>of whom the World was not worthy;</hi> who yet, as the Apoſtle tells us, <hi>had trial of cruel mockings, and ſcourgings,</hi> 
+                        <note place="margin">Heb. 11. 36.</note> 
+                        <hi>of bonds and impriſonment: were ſtoned, were ſawn aſunder, were tempted, were ſlain with the Sword,
+<pb n="54" facs="tcp:39179:28"/> wander'd about in Sheep-ſkins, and Goat-ſkins, being deſtitute, afflicted, tormented.</hi> For a ſuffi<g ref="char:EOLhyphen"/>cient anſwer to this Objection, and the clearing of that Comfortable Truth it would overthrow: I deſire you to conſider theſe three things, which, in a few words, I will endeavour to make out.</p>
+                     <p n="1">1. That <hi>the following</hi> of that which is <hi>good,</hi> naturally leads to freedom from trouble, and danger.</p>
+                     <p n="2">2. That it gives a Title to the peculiar care, and Protection of Divine Providence.</p>
+                     <p n="3">3. That it changeth the Nature of things, and turns Evils into Bleſſings.</p>
+                     <p n="1">1. The following of that which is <hi>good,</hi> naturally leads to freedom from trouble and danger. It has a direct tendency to quiet and ſafety, being a Complication of all thoſe deſire<g ref="char:EOLhyphen"/>able qualities, of all thoſe friendly, and agree<g ref="char:EOLhyphen"/>able virtues, which are ſo far from being offenſive, that they oblige mankind, and contribute to the common benefit of the World.</p>
+                     <p>
+                        <hi>Bleſſed are the meek,</hi> ſaith our Savour, <hi>for they</hi> 
+                        <note place="margin">Mat. 5. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> 
+                        <hi>ſhall inherit the Earth.</hi> The Juſtice, and kind<g ref="char:EOLhyphen"/>neſs and forbearance which make up the true Evangelical temper, are the likelieſt means to ſecure a peaceable enjoyment of the good things of this life: whilſt the contrary vices are things
+<pb n="55" facs="tcp:39179:28"/> that trouble the World, and are frequently ob<g ref="char:EOLhyphen"/>ſerv'd <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. Plato de Repub. l. 1. Sub finem.</note> to bring Ruine, and Deſtruction, on thoſe that practiſe them.</p>
+                     <p>It is eaſy to expect, that the wicked ſhould fall into miſchief, becauſe they do it to others: that a bloody-minded Man ſhould not live out half his Days: that a Catiline ſhould periſh in the Tempeſt he hath rais'd: But then they that are harmleſs and inoffenſive, yea, that are kind, and beneficial, and make it their great Buſineſs to do good; theſe are out of the ordinary walk of Violence, and the Deſtroyer: they are com<g ref="char:EOLhyphen"/>monly ſecur'd by their own innocenſe and uſe<g ref="char:EOLhyphen"/>fulneſs.</p>
+                     <p>Tho many, very many there be, that delight in wickedneſs; yet it is not agreeable to them to become Monſters in Villany. Now 'tis a cruel<g ref="char:EOLhyphen"/>ty utterly irreconcilable with human Nature, to violate and injure them, who are patient, gen<g ref="char:EOLhyphen"/>tle, and ſubmiſſive, and do no wrong. When Perſons of any common Humanity, are, through the heat of Paſſion, carried into an Extravagan<g ref="char:EOLhyphen"/>cy of this kind; it will preſently grate upon their minds as they begin to cool, and they will not be over-forward again at things which cauſe ſuch uneaſy Reflections.</p>
+                     <pb n="56" facs="tcp:39179:29"/>
+                     <p>It is obſervable, that under the Heathen Per<g ref="char:EOLhyphen"/>ſecutions, when ſo many juſt and excellent Chri<g ref="char:EOLhyphen"/>ſtians were led to the Slaughter. The malice of their cruel Enemies could not venture upon them, as they appear'd in their proper colours; but was forced to make ſtrange Repreſentations of them, that it might deſtroy them. They cover'd them, as it were, in the Skins of Beaſts, that they might raiſe the cry of the World againſt them. They invented all thoſe helliſh Accuſa<g ref="char:EOLhyphen"/>tions, which the ancient Apologiſts took ſo much pains in the confutation of, to render the Name of Chriſtian, a very Criminal and Filthy thing. As well knowing, that the natural Fea<g ref="char:EOLhyphen"/>tures of a Diſciple of the holy Jeſus, would diſ<g ref="char:EOLhyphen"/>arm the Rage of the Multitude, and melt them into Compaſſion and Love.</p>
+                     <p n="2">2. As the following of that which is good, is thus naturally productive of peace, and ſafety; ſo it is under the peculiar care of Divine Provi<g ref="char:EOLhyphen"/>dence. They that are conſtant to their Duty, deſpiſing the difficulties which may ſometimes attend it, have an Almighty Arm to interpoſe for them, in a day of trouble: they are under the eſpecial Protection, the watchful Eye of God. This the Apoſtle aſſures us of, in the Verſe before my Text: for having directed to the
+<pb n="57" facs="tcp:39179:29"/> ſeveral Duties neceſſary for him that will <hi>love life, and ſee good days,</hi> he ſubjoyns the divine Pro<g ref="char:EOLhyphen"/>tection as the chief ground of ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch ſecurity, and happineſs. <hi>For the eyes of the Lord are over the righteous, and his cars are open unto their prayers: but the face of the Lord is againſt them that do evil.</hi>
+                     </p>
+                     <p>Indeed the ways of divine Providence are very myſterious, and the Rules, obſerved by it are paſt finding out. However we muſt both queſtion the faithfulneſs of Gods promiſes, and contradict the Obſervations of every age of the World; If we do not acknowledge a particular concern of Hea<g ref="char:EOLhyphen"/>ven, for the welfare of the righteous, and extraor<g ref="char:EOLhyphen"/>dinary Interpoſals ſometimes for their ſupport, and preſervation.</p>
+                     <p>The word of God abounds with declarations, &amp; aſſurances of this kind, I will put you in mind of a few. This was a part of that bleſſing, with which <hi>Moſes</hi> the man of God had power to bleſs the Children of <hi>Iſrael</hi> before his death. <hi>The eter<g ref="char:EOLhyphen"/>nal</hi> 
+                        <note place="margin">Deut. 33. 27.</note> 
+                        <hi>God,</hi> ſays he, <hi>is thy refuge, and underneath are the everlaſting arms:</hi> and hereupon it cannot but follow, that <hi>Iſrael ſhall dwell in ſafety. The pillars of the Earth are the Lords, and he hath ſet the world upon them.</hi>
+                     </p>
+                     <pb n="58" facs="tcp:39179:30"/>
+                     <p>Said <hi>Hannah</hi> in her thankſgiving. The Al<g ref="char:EOLhyphen"/>mighty <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Sam. 2. 8.</note> hand of God is the ſupport of the Uni<g ref="char:EOLhyphen"/>verſe, and thence it is eaſy to infer the protecti<g ref="char:EOLhyphen"/>on of his ſervants, <hi>that he will keep the feet of his Saints, and that the wicked ſhall be ſilent in darkneſs.</hi>
+                     </p>
+                     <p>This was often the ſubject of <hi>Davids</hi> Medita<g ref="char:EOLhyphen"/>tions, and of his Praiſes: And he admirably vin<g ref="char:EOLhyphen"/>dicates the truth of it, in a <hi>Pſalm</hi> for the purpoſe, ſhewing, that notwithſtanding the Objections which might be made againſt a gracious, and a wiſe Providence, from ſome certain Events<g ref="char:punc">▪</g> it was ſtill an undoubted truth, That <hi>the ſteps of a</hi> 
+                        <note place="margin">Pſal. 37. 23.</note> 
+                        <hi>good Man are ordered by the Lord, and that he de<g ref="char:EOLhyphen"/>lighteth in his way,</hi> that <hi>tho' he fall be ſhall not be utterly caſt down, for the Lord upholdeth him with his hand.</hi> Yea this he confirms from his own conſtant obſervation throughout the whole courſe of his life. <hi>I have been young and how am old, yet have I not ſeen the righteous forſaken, nor his ſeed begging their bread.</hi> And to give the ſureſt ground for a firm reliance on the divine Protection, God himſelf hath been pleaſ'd to declare, that it is an impoſſibility, an <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tter impoſſibility for him, to forget the care of his People.</p>
+                     <p>
+                        <hi>Can a Woman forget her ſucking Child, that ſhe</hi> 
+                        <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 49. 15.</note> 
+                        <hi>ſhould not have compaſſion on the Son of her Womb?
+<pb n="59" facs="tcp:39179:30"/> yea they may forget, yet will I not forget thee. Be<g ref="char:EOLhyphen"/>hold I have graven thee upon the Palms of my hands, thy walls are continually before me.</hi>
+                     </p>
+                     <p>And leſt we ſhould be a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> to think, that all this implyed no more than that temporal <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elicity, which peculiarly belonged to the <hi>Jews,</hi> and ſo hath no relation to the times of the Goſpel<g ref="char:punc">▪</g> We have ſome promiſes of the like kind too, in the New Teſtament. Indeed the Kingdom of the <hi>Meſſiah</hi> was not to be ſuch as the <hi>Jews</hi> expected, a thing remarkable for outward advantages, and a worldly Glory. And our Saviour, we find, frequently warns his Diſciples, not to deceive them<g ref="char:EOLhyphen"/>ſelves with any ſuch fond Expectation. Howe<g ref="char:EOLhyphen"/>ver he ſufficiently aſſures them, that they ſhould in no ſort be given up to the rage of the world, as men forſaken. <hi>Take no thought,</hi> ſaith he, <hi>ſay<g ref="char:EOLhyphen"/>ing,</hi> 
+                        <note place="margin">Mat. 6. 31.</note> 
+                        <hi>what ſhall we eat? or what ſhall we drink? Or where-withall ſhall we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e cloathed. For your hea<g ref="char:EOLhyphen"/>venly Father knoweth that ye have need of all theſe things. But ſeek ye firſt the Kingdom of God and his Righteouſneſs, and all theſe things ſhall be ad<g ref="char:EOLhyphen"/>ded</hi> 
+                        <note place="margin">Mat. 10. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> 
+                        <hi>unto you.</hi> And at another place, <hi>Verily I ſay unto you, There is no man that hath left houſe, or brethren, or ſiſters, or Father, or Mother, or Wife or Children, or Lands, for my ſake and the Goſpels, But he ſhall receive a hundred-fold, now in this time, houſes, and brethren, and</hi> ſo on, as well as <hi>in
+<pb n="60" facs="tcp:39179:31"/> the world to come, eternal life.</hi> Whence the A<g ref="char:EOLhyphen"/>poſtle makes no doubt to apply to the Chriſti<g ref="char:EOLhyphen"/>an Church, the promiſes of this kind, which had been made to the <hi>Jewiſh. He hath ſaid, I will ne<g ref="char:EOLhyphen"/>ver</hi> 
+                        <note place="margin">Heb. 13. 5.</note> 
+                        <hi>leave thee nor forſake thee, ſo that we may bold<g ref="char:EOLhyphen"/>ly ſay, the Lord is my helper, and I will not fear what man ſhall do unto me.</hi>
+                     </p>
+                     <p>Not to mention that wonderful Preſervation, and thoſe ſignal deliverances, with which God, in every age, hath bleſſed his Church; There is not, I think, an upright Perſon, but that as he re<g ref="char:EOLhyphen"/>flects upon the occurrences of his paſt life, finds reaſon to magnify the care, and the bounty, of a favourable Providence. The dangers out of which there appear'd no way to eſcape, have eaſily paſt away: and the rage of the adverſary been ſtrange<g ref="char:EOLhyphen"/>ly becalmed, or as ſtrangly diſappointed. Unex<g ref="char:EOLhyphen"/>pected aids have riſen up for the ſupport of a mighty difficulty, and as it was in the Caſe of <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> the malice of evil men have turned to his ad<g ref="char:EOLhyphen"/>vantage &amp; even wick<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed conſpiracies have contriv'd his advancement, and his glory. And then,</p>
+                     <p n="3">3. The following of that which is Good, changeth the nature of things, and turns evils in<g ref="char:EOLhyphen"/>to bleſſings. It pulls out the ſting of afflicti<g ref="char:EOLhyphen"/>on, and even converts it into happineſs.
+<pb n="61" facs="tcp:39179:31"/> If the envy of the world breaks out into an extraordinary fury, and God for reaſons of in<g ref="char:EOLhyphen"/>finite Wiſdom, permits it ſometimes to fall upon his ſervants; He ſtill takes off the ſharpneſs, and removes the Poyſon, ſo that it becomes both ea<g ref="char:EOLhyphen"/>ſy, and beneficial.</p>
+                     <p>At that place of St. <hi>Mark</hi>'s Goſpel, which I mentioned but now, amongſt the rewards of conſtancy, which our bleſſed Maſter promiſes to his Diſciples, we find he reckons up <hi>Perſecu<g ref="char:EOLhyphen"/>ons:</hi> 
+                        <note place="margin">Mat. 10. 30</note> 
+                        <hi>Children and Lands,</hi> ſaith he, <hi>with Perſecuti<g ref="char:EOLhyphen"/>ons.</hi> And agreeably to this, St. <hi>Paul</hi> puts the dangers which threatned the Church at <hi>Corinth,</hi> amongſt the Poſſeſſions of it. <hi>Whether life, or death, or things preſent, or things to come; all are</hi> 
+                        <note place="margin">1 Cor. 3. 22.</note> 
+                        <hi>yours.</hi> The things which the world looks upon as ſo grievous and troubleſom, are converted by the Divine benediction into the moſt valuable goods, the richeſt and moſt uſeful enjoyments. Indeed this is ſuch a riddle to natural men, as they cannot underſtand. If you tell them that pover<g ref="char:EOLhyphen"/>ty, contempt, injuries, and afflictions are profita<g ref="char:EOLhyphen"/>ble things; they will imagine they are as much impos'd upon, as the Roman Governour thought himſelf, by <hi>Laurentius</hi> the Deacon; when he <note place="margin">Prudentius <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> Hymn 2.</note> preſented him the blind, and the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ame, for the treaſures of the Church. However the real Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="62" facs="tcp:39179:32"/> is abundantly ſenſible of the truth of <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> He well knows the healthfulneſs of a bitter cup, and the exceeding uſefulneſs of a ſevere diſcipline, and ſo that which others are ſo very impatient of, he receives even with joy, and thankſgiving.</p>
+                     <p>A Perſon who is conſtant to his Duty, who cannot vere with every Wind, and act upon new Principles upon every change of Times: yea, who expreſſeth the ſame Zeal for a good Cauſe in a cloudy Day, as under the warmeſt Sun-ſhine<g ref="char:punc">▪</g> Such a Perſon, I ſay, as this, muſt ſometimes expect to meet with Reproach, to be evil-ſpoken of ſometimes, even by the ſame Men that once applauded him, and to have that now cenſur'd in him as a Crime, which once was eſteemed as Matter of Praiſe. But now what real Calamity is there in all this? Tho' ſuch Uſage may grate a little upon Fleſh and Blood, here is a proper Scene for the Exerciſe of a great many noble Vertues, which in the iſſue will adminiſter to much Joy and Satisfaction. Here is an oppor<g ref="char:EOLhyphen"/>tunity for a Chriſtian to have his mind above Pro<g ref="char:EOLhyphen"/>vocation, and to enjoy the divine Pleaſure of for<g ref="char:EOLhyphen"/>giving: And here too, is an aſſurance of Recompence and infinite Rewards; <hi>Bleſſed are ye when men ſhall revile you, and perſecute you, and ſhall ſay all</hi> 
+                        <note place="margin">
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>at. 5. 11.</note> 
+                        <hi>manner of evil againſt you falſly for my ſake: Re<g ref="char:EOLhyphen"/>joyce,
+<pb n="63" facs="tcp:39179:32"/> and be exceeding glad, for great is your reward in heaven.</hi>
+                     </p>
+                     <p>Yea, ſuppoſe the Rage of them who will be offended when no juſt Cauſe is given, goes far<g ref="char:EOLhyphen"/>ther then hard Words: and it lies in their way to injure him that is firm to his Duty, in ſome important Intereſt. In ſuch a caſe, the damage he may ſuſtain, how great ſoever, is but a trifle, and ſuch as deſerves not the leaſt regard: Or to ſay better, the damage is no damage at all, but an acceſſion of happineſs; as we may learn from S. <hi>Peter</hi>'s words immediately following my Text, <hi>but if ye ſuffer for righteouſneſs ſake, happy are ye.</hi> In ſhort, nothing can appear ſo grievous and dread<g ref="char:EOLhyphen"/>ful, nothing can ſeem ſo directly contrary to his Advantage, and deſtructive of all his Intereſts; but that he that is faithful to his Duty and his God, can look upon as the gracious deſign of Heaven, for his very great Benefit. <q>We know, <note place="margin">Ro. 8. 28.</note> ſaith St. <hi>Paul,</hi> that all things work together for good, for them that love God.</q>
+                     </p>
+                     <p>What hath be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n thus ſaid, does, I think, ſuf<g ref="char:EOLhyphen"/>ficiently clear the thing I was to make out. The following of that which is <hi>Good</hi> appears the true way of ſafety becauſe it directly aims at becalm<g ref="char:EOLhyphen"/>ing the Rage of evil Men, becauſe it entitles to a divine Protection, and becauſe it turns ill Uſage in<g ref="char:EOLhyphen"/>to
+<pb n="64" facs="tcp:39179:33"/> Advantage. I will put you in mind of ſome good Purpoſes, for which the conſideration of this truth naturally ſerves, and ſo make an end. And it is certainly proper,</p>
+                     <p n="1">1. To render us ſenſible of the Folly of a worldly Policy.</p>
+                     <p n="2">2. To rouſe us up to a juſt Diligence, in ſe<g ref="char:EOLhyphen"/>curing to our ſelves ſo excellent a Preſervative.</p>
+                     <p n="3">3. To make us faithfully rely on it, in a day of fears, and troubles.</p>
+                     <p>Firſt, The following of Good being the ſureſt means to preſerve us from hurt or Evil: We cannot but hence be convinc'd of the folly of a worldly Policy. <hi>He that walketh uprightly,</hi> ſaith <note place="margin">Pro. 10. 9.</note> 
+                        <hi>Solomon, walketh ſurely: but he that perverteth his ways ſhall be known.</hi> He that obſerves no other meaſures but ſuch as are lawful, and right; treads upon Firm Ground, and cannot, as we have ſeen, miſcarry. But he that depends upon the fine contrivances of a carnal Wiſdom, man<g ref="char:EOLhyphen"/>ages ſome ſecret deſign for his own Intereſt, or Safety, to the neglect of any part of his duty; at length meets with diſappointment, and over<g ref="char:EOLhyphen"/>throw. The Wiſe Project deceives, and the myſteries of it are Expos'd to laughter and con<g ref="char:EOLhyphen"/>tempt.</p>
+                     <pb n="65" facs="tcp:39179:33"/>
+                     <p>Of this all Hiſtories both Sacred, and Profane, afford us many Examples<g ref="char:punc">▪</g> to inſtance in two or three. <hi>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ithophel</hi> was great when of Council to <hi>David,</hi> but hoping belike that a new Turn of affairs might make him greater, he deſerted his Maſter and followed <hi>Abſalom.</hi> And the advice that he now gave was anſwerable to the cha<g ref="char:EOLhyphen"/>racter of his Wiſdom, ſubtile and politick, but not honeſt. And Behold the Event, the coun<g ref="char:EOLhyphen"/>ſel of <hi>Ahithophel</hi> was defeated, and he was not able to out-live the ſhame, and diſappointment <hi>He ſadled his Aſs, and aroſe, and got him home to</hi> 
+                        <note place="margin">2. Sam. 17. 23.</note> 
+                        <hi>his houſe, and hanged himſelf.</hi> No one I think, ever carried on a Plot with more artifice, than he at firſt did, to whom <hi>Ahithophel</hi> revolted. We find the great addreſs with which he betook him<g ref="char:EOLhyphen"/>ſelf to it, at large deſcrib'd at 2 <hi>Sam.</hi> 15. But the policy was ſinful, and oppoſed the laws of that Wiſdom which is of God, and ſo ſoon iſſued in his deſtruction.</p>
+                     <p>What a mighty man had <hi>Sejanus</hi> made himſelf, bymeans of thoſe wicked arts, he uſed, to inſinu<g ref="char:EOLhyphen"/>ate into the favour of <hi>Tiberius.</hi> But he only con<g ref="char:EOLhyphen"/>triv'd to himſelf a haſty ruine, <note n="*" place="margin">—Sejanus ducitur unco Spectandus: gaudent omnes: quae labra? quis illi, Vultus erat? Juvenal Sat. 10.</note> being tumbled down from his greatneſs and expoſed to the ſcorn, and
+<pb n="66" facs="tcp:39179:34"/> inſults of that multitude, which once Ador'd him.</p>
+                     <p>Thus doth Divine Providence frequently ma<g ref="char:EOLhyphen"/>inifeſt the deteſtation it hath for a worldly Po<g ref="char:EOLhyphen"/>licy; Thus doth the Almighty ſhew, how eaſy it is with him, <q>to fruſtrate the tokens of liars, and to make Diviners made <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> turn wiſe men backward, and to make their knowledge fooliſh</q> 
+                        <note place="margin">I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 44. 25.</note>
+                     </p>
+                     <p>Secondly, the following of Good being the true way of ſafety: the ſenſe of what it thus is, ſhould rouze us up to a juſt diligence in ſecuring to our ſelves ſo excellent a Preſervative. It ſhould make us very careful to walk in that Path, where no evil can befal us.</p>
+                     <p>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xamine your ſelves and conſider well the ſtate of your own hearts: review the path which you have been hitherto in, and the ends that you have purſued. And as far as you diſcover errour and miſcarriage, reſolve upon a reformation. Study well the nature of <hi>Good,</hi> and get a right notion of the ſeveral branches of it. Conſider what you ought to do upon every emergency what, in ſuch circumſtances, and upon ſuch occaſions, you ow to your Creatour, and what to your fellow-Creatures: what you ow to that Church into which you have been baptized, and wherein you hope to be ſaved. Be acquainted with the Obli<g ref="char:EOLhyphen"/>gations that lie upon you, in the ſeveral relations
+<pb n="67" facs="tcp:39179:34"/> in which you ſtand, both as men, and as Chriſti<g ref="char:EOLhyphen"/>ans. Conſider, I ſay, and ſtudy theſe things well, for 'tis, you have ſeen, a buſineſs of importance, the true policy of a Chriſtian, the art of ſafety.</p>
+                     <p>And having found out what is good, reſolve to do it with thy might. Let no falſe ſhews of wiſdom deceive yo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, No threatnings or reproach<g ref="char:EOLhyphen"/>es diſcourage you, no temptation draw you a<g ref="char:EOLhyphen"/>ſide. Set up ſuch a ſtedfaſt and immoveable pur<g ref="char:EOLhyphen"/>poſe as this is: <q>In the way that is now before me I am ſure is my duty, and my duty being there I am as ſure my intereſt is too. From this, let the event, as to the preſent appearance, look never ſo diſcouraging, no ſeeming advan<g ref="char:EOLhyphen"/>tage ſhall ever divert me: No carnal conſi<g ref="char:EOLhyphen"/>deration ſhall ever diſſwade me. No, I will not be ſo cheated away from the defences and pro<g ref="char:EOLhyphen"/>tection of innocenſe: I will not ſo embrace a ſhadow, and loſe the ſubſtance.</q>
+                     </p>
+                     <p>
+                        <hi>Thirdly</hi> and laſtly, The following of Good being the beſt ſecurity againſt Evils, let us faith<g ref="char:EOLhyphen"/>fully rely on it, in a day of fears, and troubles. When the clonds ſeeem to gather over our heads, and the increaſing blackneſs portends a tempeſt: when things begin to run into Confuſion, then fly to the ſupport of a good Conſcience, and caſt all your care upon him, who careth for you. Tho'
+<pb n="68" facs="tcp:39179:35"/> difficulties are on this ſide, and dangers on that: the Sea before, and the <hi>Egyptians</hi> behind: Tho' the perplexities appear inextricable, and you can<g ref="char:EOLhyphen"/>not ſee through the diſorder; yet expect deli<g ref="char:EOLhyphen"/>very from him who is able to give it, <hi>ſtand ſtill and ſee the Salvation of the Lord.</hi>
+                     </p>
+                     <p>Take up, on ſuch occaſions, the Aſſurance of the <hi>Pſalmiſt,</hi> and ſay, <hi>my ſoul wait thou only upon</hi> 
+                        <note place="margin">P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 62<g ref="char:punc">▪</g> 5.</note> 
+                        <hi>God, for my expectation is from him: He only is my rock and my ſalvation, he is my defence, I ſhall not be moved. In God is my ſalvation and my glo<g ref="char:EOLhyphen"/>ry, the rock of my ſtrength, and my refuge is in God.</hi> And be ready to comfort others with the words he there adds, <hi>Truſt in him at all times ye People, pour out your heart before him, God is a refuge for us.</hi>
+                     </p>
+                     <p>Indeed, tho' I am not for troubling the minds of any with groundleſs terrours; I cannot but ſay, that the preſent face of things is not very promiſ<g ref="char:EOLhyphen"/>ing. God who hath ſo often deliver'd this Church and Nation, ſeems ſtill to hold the rod over us, and to threaten us with ſome ſtrokes of his Vengeance. Tho' we have been lately freed of our fears from abroad, there is ſtill Ground of fear at home: We have ſins the fatal Cauſes, and diviſions the fatal Inſtruments, of R<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ne.</p>
+                     <p>Tho' we expect no Fleets, and Armies, to come and overthrow us; It is viſible that there
+<pb n="69" facs="tcp:39179:35"/> are <hi>Papiſts</hi> and <hi>Diſſent<gap reason="illegible" resp="#APEX" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>, <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> and <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> men of <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> differing Religio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, and <gap reason="illegible" resp="#APEX" extent="3 words">
+                           <desc>〈◊◊◊〉</desc>
+                        </gap> Religion <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> all, in a kind of <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> againſt <gap reason="illegible" resp="#APEX" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> to <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> down <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſtrong <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of our <hi>Sion,</hi> to level it with the duſt and <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> it i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Con<g ref="char:EOLhyphen"/>fuſion. And now, <gap reason="illegible" resp="#APEX" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap> do? Why, let us do theſe two things. Being Stedfaſt in our Duty, let <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> age our ſelves with the <gap reason="illegible" resp="#APEX" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap> in times paſt<g ref="char:punc">▪</g> and let us fly unto him, <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to ſave us, for the time to come.</p>
+                     <p>1, Let us encourage our ſelves with the re<g ref="char:EOLhyphen"/>membrance of God's gracious <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mes paſt. Let us conſi<gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#APEX" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> Lord hath done at ſeaſons of great extremity<g ref="char:punc">▪</g> and <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> into the ſeveral methods of <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and deli<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rance: How it is that he <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> formerly <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Cho<g ref="char:EOLhyphen"/>ſen, and ſav'd his Inheritance. Let us conſider that the ways of divine Mercy and Redemption have been often ſuch, as no human Eye could foreſee: that God hath deliver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d his Servants in the midſt of Multitudes that have periſh'd: that they have been diſtinguiſh'd by ſafety in Over<g ref="char:EOLhyphen"/>throw, and have ſtood unhurt in a general Ru<g ref="char:EOLhyphen"/>ine. Let us conſider that God makes the ſuf<g ref="char:EOLhyphen"/>ferings of a few, the advantage of themſelves, and many more. And let us conſider that it is
+<pb n="80" facs="tcp:39179:36"/> the Wiſdom of Providence, in ways that are <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> underſtanding, to bring light out of <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and good out of Evil. And</p>
+                     <p>
+                        <gap reason="illegible" resp="#APEX" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> fly <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>to him who is able to ſave us, for the time to come. Let us fall down on our knees before the throne of grace, and put up our requeſts unto him, who is thus mighty to deliver. Tho' it be a ſhort one, we cannot have a better Form, than the Collect which our Church hath appointed for this day: with which I ſhall con<g ref="char:EOLhyphen"/>clude</p>
+                     <p>
+                        <hi>Grant, O Lord, we beſeech thee, that the courſe of this world may be ſo peaceably order'd by thy Governance, that thy Church may joyfully ſerve thee, in all godly quietneſs, through Jeſus Chriſt our Lord.</hi> Amen.</p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="errata">
+                  <pb facs="tcp:39179:36"/>
+                  <head>ERRATA.</head>
+                  <p>Page 5. line 10. read Sermon, p. 6. l. 18. 1. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, p. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> l. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Novation, l. 14. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Poſtlimi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o, <hi>ib.</hi> l. 17. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, <hi>ib.</hi> l. 20. r. quae, p. 22. l. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> after few, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Indifferent, p. 23. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3. for Reproach<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
